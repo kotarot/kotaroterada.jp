@@ -1,0 +1,4 @@
+AddDefaultCharset utf-8
+Options -Indexes
+
+RedirectMatch 404 /\.git
