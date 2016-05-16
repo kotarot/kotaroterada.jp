@@ -7,8 +7,16 @@ section h1 {
     font-size: 1.6em;
 }
 section h2 {
-    font-size:1.4em;
+    font-size: 1.6em;
 }
+section h3 {
+    font-size: 1.4em;
+}
+
+main a {
+    color: #006ad5;
+}
+
 .container:after {
     display:inline;
 }
