@@ -103,7 +103,7 @@ if __name__ == '__main__':
               + '<meta http-equiv="X-UA-Compatible" content="IE=Edge">' \
               + '<meta name="viewport" content="width=device-width, initial-scale=1.0">' \
               + '<title>' + conf.get('page', 'title').decode('utf-8') + '</title>' \
-              + '<link rel="stylesheet" href="css/screen.css">' \
+              + '<link rel="stylesheet" href="skyline/css/screen.css">' \
               + '<link rel="stylesheet" href="style.css">' \
               + '<link rel="canonical" href="' + conf.get('page', 'rooturl').decode('utf-8') + args.canonical + '">' \
               + '<!--[if lt IE 9]>' \
