@@ -35,15 +35,21 @@ if __name__ == '__main__':
     html_md = markdown(text=mdtext, output_format='html5')
     soup_md = BeautifulSoup(html_md)
 
-    # Pre-processing: Wrap <h2> and its followings with <section>
-    first_h2 = True
+    # If the first element is <p>, wrap it with class="block--end container"
     html_md = soup_md.prettify()
+    html_md_lines = html_md.split('\n')
+    first_section = True
+    if '<p>' in html_md_lines[0]:
+        html_md_lines[0] = html_md_lines[0].replace('<p>', '<section class="block--ends container"><p>')
+        first_section = False
+
+    # Pre-processing: Wrap <h2> and its followings with <section>
     html_sec = ''
-    for line in html_md.split('\n'):
+    for line in html_md_lines:
         if '<h2>' in line:
-            if first_h2:
+            if first_section:
                 line = line.replace('<h2>', '<section class="block--ends container"><h2>')
-                first_h2 = False
+                first_section = False
             else:
                 line = line.replace('<h2>', '</section><section class="block container"><h2>')
         html_sec += line
