@@ -1,5 +1,7 @@
 #!/bin/sh
 
+#cp -ap .htaccess ~/public_html/.htaccess
+
 cp -ap skyline/css/screen.css ~/public_html/skyline/css/screen.css
 cp -ap style.css ~/public_html/style.css
 
