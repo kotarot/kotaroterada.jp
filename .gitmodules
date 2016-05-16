@@ -1,0 +1,3 @@
+[submodule "skyline"]
+	path = skyline
+	url = https://github.com/crushlovely/skyline.git
