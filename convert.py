@@ -80,17 +80,18 @@ if __name__ == '__main__':
              + '<h1 class="branding__wordmark">' + conf.get('cv', 'name').decode('utf-8') + '</h1>' \
              + '</a>' \
              + '<nav class="site-nav">' \
-             + ''.join(['<a href="#"' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
+             + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
              + '<a href="/">' + conf.get('page', 'homename').decode('utf-8') + '</a>' \
              + '</nav></div></header>' \
              + html_toc \
              + '<footer class="site-footer">' \
              + '<div class="container">' \
              + '<nav class="site-nav">' \
-             + ''.join(['<a href="#"' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
+             + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
              + '<a href="/">' + conf.get('page', 'homename').decode('utf-8') + '</a>' \
              + '</nav>' \
-             + '<small class="site-credits">' + conf.get('page', 'copyright').decode('utf-8') + '<br>This page is generated using <a href="https://github.com/kotarot/cv-generator">CV Generator</a></small>' \
+             + '<small class="site-credits">' + conf.get('page', 'copyright').decode('utf-8') \
+             + '<br>This page is generated using <a href="https://github.com/kotarot/cv-generator">CV Generator</a></small>' \
              + '</div></footer>'
 
     # Into BeautifulSoup
@@ -121,7 +122,7 @@ if __name__ == '__main__':
               + '</head>'
 
     # Merge
-    soup_html = BeautifulSoup('<!DOCTYPE html><html lang="' + args.lang + '">' + head_html + '<body><div class="site"></div></body></html>', convertEntities=BeautifulSoup.HTML_ENTITIES)
+    soup_html = BeautifulSoup('<!DOCTYPE html><html lang="' + args.lang + '">' + head_html + '<body><div class="site"></div></body></html>')
     soup_html.html.body.div.insert(0, soup_toc)
 
     # Output html
