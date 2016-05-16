@@ -1,5 +1,7 @@
 # CV Generator
 
+This repository contains "CV Generator" and my CV data.
+
 
 ## Requirements
 
