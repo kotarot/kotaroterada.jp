@@ -1,4 +1,4 @@
-Language: [Japanese version](http://www.togawa.cs.waseda.ac.jp/~kotaro.terada/index.ja.html)
+[Switch to Japanese version](http://www.togawa.cs.waseda.ac.jp/~kotaro.terada/index.ja.html)
 
 ## Position
 

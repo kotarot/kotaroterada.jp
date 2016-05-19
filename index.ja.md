@@ -1,4 +1,4 @@
-Language: [English version](http://www.togawa.cs.waseda.ac.jp/~kotaro.terada/)
+[Switch to English version](http://www.togawa.cs.waseda.ac.jp/~kotaro.terada/)
 
 ## 所属
 
