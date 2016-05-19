@@ -1,2 +1,4 @@
 BeautifulSoup==3.2.1
+Jinja==1.2
+Jinja2==2.8
 Markdown==2.6.6

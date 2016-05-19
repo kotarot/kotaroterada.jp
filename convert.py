@@ -5,7 +5,13 @@ import argparse
 from BeautifulSoup import BeautifulSoup, Tag
 import codecs
 import ConfigParser
+from jinja2 import Environment, FileSystemLoader
 from markdown import markdown
+
+# This is bad technique, but easy to use
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 
 # Command line args
@@ -79,6 +85,7 @@ if __name__ == '__main__':
         h['id'] = id
 
     # Add TOC at the top and bottom
+    # TODO: These codes should be rewirted with template
     html_toc = str(soup_sec).decode('utf-8')
     html_toc = '<header class="site-header" role="banner">' \
              + '<div class="container">' \
@@ -100,52 +107,36 @@ if __name__ == '__main__':
              + '<br>This page is generated using <a href="https://github.com/kotarot/cv-generator">CV Generator</a></small>' \
              + '</div></footer>'
 
-    # Into BeautifulSoup
-    soup_toc = BeautifulSoup(html_toc)
+    # Content with TOC
+    content = BeautifulSoup(html_toc).prettify()
 
-    # HTML for <head>
-    head_html = '<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">' \
-              + '<meta charset="UTF-8">' \
-              + '<meta http-equiv="X-UA-Compatible" content="IE=Edge">' \
-              + '<meta name="viewport" content="width=device-width, initial-scale=1.0">' \
-              + '<title>' + conf.get('page', 'title').decode('utf-8') + '</title>' \
-              + '<link rel="stylesheet" href="skyline/css/screen.css">' \
-              + '<link rel="stylesheet" href="style.css">' \
-              + '<link rel="canonical" href="' + conf.get('page', 'rooturl').decode('utf-8') + args.canonical + '">' \
-              + '<!--[if lt IE 9]>' \
-              + '<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>' \
-              + '<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>' \
-              + '<![endif]-->' \
-              + '<meta name="description" content="' + conf.get('page', 'description').decode('utf-8') + '">' \
-              + '<meta name="keywords" content="' + conf.get('page', 'keywords').decode('utf-8') + '">' \
-              + '<meta property="og:locale" content="' + args.locale + '">' \
-              + '<meta property="og:type" content="website">' \
-              + '<meta property="og:title" content="' + conf.get('ogp', 'title').decode('utf-8') + '">' \
-              + '<meta property="og:url" content="' + conf.get('page', 'rooturl').decode('utf-8') + args.canonical + '">' \
-              + '<meta property="og:description" content="' + conf.get('page', 'description').decode('utf-8') + '">' \
-              + '<meta property="og:site_name" content="' + conf.get('ogp', 'sitename').decode('utf-8') + '">' \
-              + '<meta property="og:image" content="' + conf.get('page', 'rooturl').decode('utf-8') + 'photo.jpg">' \
-              + '</head>'
+    # Jinja template
+    env = Environment(loader=FileSystemLoader('./', encoding='utf-8'))
+    tpl = env.get_template('index.tpl')
 
-    # Merge
-    soup_html = BeautifulSoup('<!DOCTYPE html><html lang="' + args.lang + '">' + head_html + '<body><div class="site"></div></body></html>')
-    soup_html.html.body.div.insert(0, soup_toc)
+    page = {
+        'lang':        args.lang,
+        'title':       conf.get('page', 'title'),
+        'canonical':   conf.get('page', 'rooturl') + args.canonical,
+        'description': conf.get('page', 'description'),
+        'keywords':    conf.get('page', 'keywords'),
+        'copyright':   conf.get('page', 'copyright')
+    }
+    ogp = {
+        'locale':   args.locale,
+        'title':    conf.get('ogp', 'title'),
+        'url':      conf.get('page', 'rooturl') + args.canonical,
+        'sitename': conf.get('ogp', 'sitename'),
+        'image':    conf.get('page', 'rooturl') + 'photo.jpg'
+    }
 
     # Output html
-    html = ''
-    # Convert
-    #   - "&gt;&lt;script" to ">\n  <script"
-    #   - "&gt;&lt;/script" to "></script"
-    #   - "&gt;&lt;!" to ">\n  <!"
-    # in comments
-    for line in soup_html.prettify().split('\n'):
-        line = line.replace('&gt;&lt;script', '>\n  <script').replace('&gt;&lt;/script', '></script').replace('&gt;&lt;!', '>\n  <!')
-        html += line + '\n'
+    html = tpl.render({'page': page, 'ogp': ogp, 'content': content})
 
     # Print or Save to file
     if args.output is None:
         print html
     else:
-        fout = codecs.open(args.output, 'w', encoding='utf-8', errors='xmlcharrefreplace')
-        fout.write(html.decode('utf-8'))
-        print 'Converted: %s -> %s' % (args.input, args.output)
+        with open(args.output, 'w') as file:
+            file.write(html)
+            print 'Converted: %s -> %s' % (args.input, args.output)
