@@ -2,13 +2,13 @@
 
 ## Position
 
-Apr. 2015 &ndash; current  
+Apr. 2015 &ndash; present  
 Ph.D. student  
 Togawa Laboratory,  
 Department of Computer Science and Communications Engineering,  
 [Waseda University](http://www.waseda.jp/top/en), Japan
 
-Apr. 2016 &ndash; current  
+Apr. 2016 &ndash; present  
 [JSPS](https://www.jsps.go.jp/english/index.html) Research Fellow
 
 
@@ -28,7 +28,11 @@ GitHub: [@kotarot](https://github.com/kotarot)
 **Bachelor of Engineering**, Waseda University, Mar. 2014.
 
 
-## Educations
+## Experience &amp; Education
+
+Oct. 2014 &ndash; Mar. 2015  
+Technical Advisor, [Tribox Inc.](http://tribox.com).  
+My work was developing [tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com).
 
 Apr. 2014 &ndash; Mar. 2015  
 Master of Engineering, Department of Computer Science and Communications Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/associate_professor.html))
@@ -43,6 +47,11 @@ Waseda University Honjo Senior High School.
 ## Research Interests
 
 VLSI design, electronic design automation (EDA), and high-level synthesis.
+
+
+## Membership of Academic Societies
+
+[IEICE](http://www.ieice.org/eng/index.html), [IPSJ](http://www.ipsj.or.jp/english/index.html)
 
 
 ## Awards
@@ -72,6 +81,33 @@ VLSI design, electronic design automation (EDA), and high-level synthesis.
 1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算チェイニング候補列挙に基づく配線遅延を考慮した高位合成手法," 第27回回路とシステムワークショップ論文集, pp. 440&ndash;445, Aug. 2014.
 
 
-## Membership of Academic Societies
+## Others
 
-[IEICE](http://www.ieice.org/eng/index.html), [IPSJ](http://www.ipsj.or.jp/english/index.html)
+### Contributions to Open Source Projects
+
+* World Cube Association Regulations (GitHub: [cubing/wca-regulations](https://github.com/cubing/wca-regulations))
+* Translation of World Cube Association Regulations (GitHub: [cubing/wca-regulations-translations](https://github.com/cubing/wca-regulations-translations))
+* Cubjectives: A tool to compute and visualize World Cube Association data (GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
+
+
+### Speed cubing
+
+[My all results](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01)
+
+
+#### Rubik's Cube Blindfolded
+
+* **3rd place** in Rubik's Cube Blindfolded at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)
+* **2nd place** in Rubik's Cube Blindfolded at [East Japan Big Cubes 2012](https://www.worldcubeassociation.org/competitions/EastJapanBigCubes2012)
+* **2nd place** in Rubik's Cube Blindfolded at [Kansai Open 2012](https://www.worldcubeassociation.org/competitions/KansaiOpen2012)
+* **3rd place** in Rubik's Cube Blindfolded at [Matsudo Spring 2011](https://www.worldcubeassociation.org/competitions/MatsudoSpring2011)
+
+
+#### Rubik's Cube Fewest Moves
+
+* **3rd place** in Rubik's Cube Fewest Moves at [Kanto Winter 2012](https://www.worldcubeassociation.org/competitions/KantoWinter2012)
+
+
+#### Rubik's Clock
+
+* **3rd place** in Rubik's Clock at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)

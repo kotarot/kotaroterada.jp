@@ -25,7 +25,11 @@ GitHub: [@kotarot](https://github.com/kotarot)
 **学士 (工学)**, 早稲田大学, 2014年3月.
 
 
-## 学歴
+## 経歴 &amp; 学歴
+
+2014年10月 &ndash; 2016年3月  
+[株式会社トライボックス](http://tribox.com) テクニカルアドバイザー  
+[tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com) の開発・保守．
 
 2014年4月 &ndash; 2015年3月  
 早稲田大学 大学院基幹理工学研究科 情報理工・情報通信専攻 修士課程 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/associate_professor.html))
@@ -37,9 +41,14 @@ GitHub: [@kotarot](https://github.com/kotarot)
 早稲田大学本庄高等学院 普通科
 
 
-## 研究分野
+## 研究興味分野
 
 VLSI 設計, EDA, 高位合成.
+
+
+## 所属学会
+
+[電子情報通信学会](http://www.ieice.org/jpn/index.html), [情報処理学会](http://www.ipsj.or.jp/)
 
 
 ## 表彰
@@ -69,6 +78,33 @@ VLSI 設計, EDA, 高位合成.
 1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算チェイニング候補列挙に基づく配線遅延を考慮した高位合成手法," 第27回回路とシステムワークショップ論文集, pp. 440&ndash;445, Aug. 2014.
 
 
-## 所属学会
+## その他
 
-[電子情報通信学会](http://www.ieice.org/jpn/index.html), [情報処理学会](http://www.ipsj.or.jp/)
+### オープンソースプロジェクト等への貢献
+
+* World Cube Association Regulations (GitHub: [cubing/wca-regulations](https://github.com/cubing/wca-regulations))
+* Translation of World Cube Association Regulations (GitHub: [cubing/wca-regulations-translations](https://github.com/cubing/wca-regulations-translations))
+* Cubjectives: A tool to compute and visualize World Cube Association data (GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
+
+
+### Speed cubing
+
+[My all results](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01)
+
+
+#### Rubik's Cube Blindfolded
+
+* **3rd place** in Rubik's Cube Blindfolded at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)
+* **2nd place** in Rubik's Cube Blindfolded at [East Japan Big Cubes 2012](https://www.worldcubeassociation.org/competitions/EastJapanBigCubes2012)
+* **2nd place** in Rubik's Cube Blindfolded at [Kansai Open 2012](https://www.worldcubeassociation.org/competitions/KansaiOpen2012)
+* **3rd place** in Rubik's Cube Blindfolded at [Matsudo Spring 2011](https://www.worldcubeassociation.org/competitions/MatsudoSpring2011)
+
+
+#### Rubik's Cube Fewest Moves
+
+* **3rd place** in Rubik's Cube Fewest Moves at [Kanto Winter 2012](https://www.worldcubeassociation.org/competitions/KantoWinter2012)
+
+
+#### Rubik's Clock
+
+* **3rd place** in Rubik's Clock at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)
