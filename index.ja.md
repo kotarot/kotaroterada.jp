@@ -29,7 +29,8 @@ GitHub: [@kotarot](https://github.com/kotarot)
 
 2014年10月 &ndash; 2016年3月  
 [株式会社トライボックス](http://tribox.com) テクニカルアドバイザー  
-[tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com) の開発・保守．
+[tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com),
+[triboxstickers.com](https://triboxstickers.com), [contest.tribox.com](https://contest.tribox.com) の開発・保守．
 
 2014年4月 &ndash; 2015年3月  
 早稲田大学 大学院基幹理工学研究科 情報理工・情報通信専攻 修士課程 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/associate_professor.html))
@@ -80,6 +81,19 @@ VLSI 設計, EDA, 高位合成.
 
 ## その他
 
+### ハッカソン
+
+#### [Hack Day 2016](http://hackday.jp/2016/)
+
+作品名: コネクトガール (Connect Girls)  
+チーム: すすわたり  
+表彰: Short list  
+ソースコード: [GitHub](https://github.com/nikken7101/susuwatari)  
+メディア掲載: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html)、[週間アスキー No. 1073](https://www.amazon.co.jp/dp/B01DSPE7DO) 他
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Px5RpnOdf6U" frameborder="0" allowfullscreen></iframe>
+
+
 ### オープンソースプロジェクト等への貢献
 
 * World Cube Association Regulations (GitHub: [cubing/wca-regulations](https://github.com/cubing/wca-regulations))
@@ -87,9 +101,9 @@ VLSI 設計, EDA, 高位合成.
 * Cubjectives: A tool to compute and visualize World Cube Association data (GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
 
 
-### Speed cubing
+### スピードキュービング
 
-[My all results](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01)
+[今までの全記録一覧](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01)
 
 
 #### Rubik's Cube Blindfolded

@@ -32,7 +32,7 @@ GitHub: [@kotarot](https://github.com/kotarot)
 
 Oct. 2014 &ndash; Mar. 2015  
 Technical Advisor, [Tribox Inc.](http://tribox.com).  
-My work was developing [tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com).
+My work was developing [tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com), and [contest.tribox.com](https://contest.tribox.com).
 
 Apr. 2014 &ndash; Mar. 2015  
 Master of Engineering, Department of Computer Science and Communications Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/associate_professor.html))
@@ -81,7 +81,20 @@ VLSI design, electronic design automation (EDA), and high-level synthesis.
 1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算チェイニング候補列挙に基づく配線遅延を考慮した高位合成手法," 第27回回路とシステムワークショップ論文集, pp. 440&ndash;445, Aug. 2014.
 
 
-## Others
+## Other works
+
+### Hackathon
+
+#### [Hack Day 2016](http://hackday.jp/2016/)
+
+Project title: コネクトガール (Connect Girls)  
+Team: すすわたり  
+Prize: Short list  
+Source code: [GitHub](https://github.com/nikken7101/susuwatari)  
+Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html), [週間アスキー No. 1073](https://www.amazon.co.jp/dp/B01DSPE7DO), and more.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Px5RpnOdf6U" frameborder="0" allowfullscreen></iframe>
+
 
 ### Contributions to Open Source Projects
 
@@ -92,7 +105,7 @@ VLSI design, electronic design automation (EDA), and high-level synthesis.
 
 ### Speed cubing
 
-[My all results](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01)
+[List of my all results](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01)
 
 
 #### Rubik's Cube Blindfolded
