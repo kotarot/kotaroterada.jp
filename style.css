@@ -36,7 +36,7 @@ img {
             border-radius: 10px;
 }
 
-@media all and (min-width: 480px) {
+@media all and (min-width: 481px) {
     .photo-wrap {
         float: right;
         margin-top: 2.25em;
@@ -44,7 +44,7 @@ img {
         height: auto;
     }
 }
-@media all and (max-width: 479px) {
+@media all and (max-width: 480px) {
     .photo-wrap {
         margin-top: 2.25em;
         margin-left: auto;
