@@ -17,9 +17,8 @@ Apr. 2016 &ndash; present
 Email: kotaro.terada [at] togawa.cs.waseda.ac.jp  
 Office: 55N-603A, Okubo 3-4-1, Shinjuku-ku, Tokyo, 169-8555 Japan
 
-Facebook: [kotaro.terada](https://www.facebook.com/kotaro.terada)  
+GitHub: [@kotarot](https://github.com/kotarot)  
 Twitter: [@kotarotrd](https://twitter.com/kotarotrd)  
-GitHub: [@kotarot](https://github.com/kotarot)
 
 
 ## Degrees

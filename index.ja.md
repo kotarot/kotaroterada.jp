@@ -14,9 +14,8 @@
 Email: kotaro.terada [at] togawa.cs.waseda.ac.jp  
 Office: 〒169-8555 東京都新宿区大久保 3-4-1 早稲田大学理工学術院 55N-603A
 
-Facebook: [kotaro.terada](https://www.facebook.com/kotaro.terada)  
+GitHub: [@kotarot](https://github.com/kotarot)  
 Twitter: [@kotarotrd](https://twitter.com/kotarotrd)  
-GitHub: [@kotarot](https://github.com/kotarot)
 
 
 ## 学位
