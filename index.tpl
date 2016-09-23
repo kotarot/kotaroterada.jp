@@ -26,5 +26,13 @@
   <div class="site">
     {{ content }}
   </div>
+<style>
+.site-header {
+    background-image: url("./zedboard.jpg");
+    background-position: center center;
+    color: #fff;
+    height: 250px;
+}
+</style>
  </body>
 </html>
