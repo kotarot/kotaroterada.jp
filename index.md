@@ -18,7 +18,6 @@ Email: kotaro.terada [at] togawa.cs.waseda.ac.jp
 Office: 55N-603A, Okubo 3-4-1, Shinjuku-ku, Tokyo, 169-8555 Japan
 
 GitHub: [@kotarot](https://github.com/kotarot)  
-Twitter: [@kotarotrd](https://twitter.com/kotarotrd)  
 
 
 ## Degrees
@@ -55,6 +54,9 @@ VLSI design, electronic design automation (EDA), and high-level synthesis.
 
 ## Awards
 
+1. 情報処理学会 DAシンポジウム2016 アルゴリズムデザインコンテスト 最優秀賞
+1. 情報処理学会 DAシンポジウム2016 アルゴリズムデザインコンテスト 特別賞
+1. 情報処理学会 第176回システムとLSIの設計技術研究発表会 優秀発表学生賞
 1. 情報処理学会 DAシンポジウム2015 アルゴリズムデザインコンテスト 優秀賞 (学生部門)
 
 
@@ -73,6 +75,8 @@ VLSI design, electronic design automation (EDA), and high-level synthesis.
 
 ### Domestic Conferences
 
+1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算ビット幅に基づく演算チェイニングを用いたRDRアーキテクチャ向け性能指向高位合成手法," 電子情報通信学会2016年ソサイエティ大会講演論文集, p. 71, Sept. 2016.
+1. <u>寺田晃太朗</u>, 長谷川健人, 川村一志, 多和田雅師, 藤原晃一, 戸川望, "機械学習とFPGAを用いたナンバーリンクソルバ," 情報処理学会DAシンポジウム2016ポスター発表, Sept. 2016.
 1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "DFGのクリティカルパス最適化に基づく演算チェイニングを用いたRDRアーキテクチャ対象高位合成手法," 信学技報, VLD2016-05, pp. 41&ndash;46, May 2016.
 1. <u>寺田晃太朗</u>, 川村一志, 多和田雅師, 藤原晃一, 戸川望, "機械学習を用いたナンバーリンクソルバ," 情報処理学会DAシンポジウム2015ポスター発表, Aug. 2015.
 1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算チェイニングの候補列挙・選択アルゴリズムを用いたフロアプラン指向高位合成手法," 情報処理学会DAシンポジウム2015論文集, pp. 17&ndash;22, Aug. 2015.
