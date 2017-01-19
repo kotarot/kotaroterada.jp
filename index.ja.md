@@ -122,6 +122,11 @@ VLSI 設計, EDA, 高位合成.
 * **3rd place** in Rubik's Cube Fewest Moves at [Kanto Winter 2012](https://www.worldcubeassociation.org/competitions/KantoWinter2012)
 
 
+#### Pyraminx
+
+* **3rd place** in Pyraminx at [Kyushu Open 2016](https://www.worldcubeassociation.org/competitions/KyushuOpen2016)
+
+
 #### Rubik's Clock
 
 * **3rd place** in Rubik's Clock at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)
