@@ -88,6 +88,12 @@ VLSI design, electronic design automation (EDA), and high-level synthesis.
 
 ### Hackathon
 
+#### [Hack Day 2017](http://hackday.jp/2017/)
+
+Project title: ファンさん  
+Team: けんけんぱ  
+Prize: Good award (優秀賞)  
+
 #### [Hack Day 2016](http://hackday.jp/2016/)
 
 Project title: コネクトガール (Connect Girls)  

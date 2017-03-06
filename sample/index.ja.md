@@ -86,6 +86,12 @@ VLSI 設計, EDA, 高位合成.
 
 ### ハッカソン
 
+#### [Hack Day 2017](http://hackday.jp/2017/)
+
+作品名: ファンさん  
+チーム: けんけんぱ  
+表彰: 優秀賞  
+
 #### [Hack Day 2016](http://hackday.jp/2016/)
 
 作品名: コネクトガール (Connect Girls)  
