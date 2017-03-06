@@ -136,3 +136,8 @@ VLSI 設計, EDA, 高位合成.
 #### Rubik's Clock
 
 * **3rd place** in Rubik's Clock at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)
+
+
+#### Other events
+
+* **3rd place** in Inter-University Cube Relay as *Waseda University* at [Circles Open Spring 2017](https://www.worldcubeassociation.org/competitions/CirclesOpenSpring2017)
