@@ -15,7 +15,7 @@ Apr. 2016 &ndash; present
 ## Contact Info
 
 Email: kotaro.terada [at] togawa.cs.waseda.ac.jp  
-Office: 55N-603A, Okubo 3-4-1, Shinjuku-ku, Tokyo, 169-8555 Japan
+Office: 55N-603A Togawa Lab., Okubo 3-4-1, Shinjuku-ku, Tokyo, 169-8555 Japan
 
 GitHub: [@kotarot](https://github.com/kotarot)  
 
@@ -44,12 +44,12 @@ Waseda University Honjo Senior High School.
 
 ## Research Interests
 
-VLSI design, electronic design automation (EDA), and high-level synthesis.
+VLSI design, electronic design automation (EDA), high-level synthesis, and combinatorial optimization
 
 
 ## Membership of Academic Societies
 
-[IEICE](http://www.ieice.org/eng/index.html), [IPSJ](http://www.ipsj.or.jp/english/index.html)
+[IEICE](http://www.ieice.org/eng/index.html), [IPSJ](http://www.ipsj.or.jp/english/index.html), and [JPS](http://www.jps.or.jp/)
 
 
 ## Awards
@@ -82,6 +82,12 @@ VLSI design, electronic design automation (EDA), and high-level synthesis.
 1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算チェイニングの候補列挙・選択アルゴリズムを用いたフロアプラン指向高位合成手法," 情報処理学会DAシンポジウム2015論文集, pp. 17&ndash;22, Aug. 2015.
 1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "多段演算チェイニングを利用した配線遅延を考慮した高位合成手法," 情報処理学会DAシンポジウム2014論文集, pp. 115&ndash;120, Aug. 2014.
 1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算チェイニング候補列挙に基づく配線遅延を考慮した高位合成手法," 第27回回路とシステムワークショップ論文集, pp. 440&ndash;445, Aug. 2014.
+
+
+## Grants
+
+1. Jun. 2017 &ndash; Mar. 2018, Waseda Research Institute for Science and Engineering, Early Bird - Young Scientists' Community
+1. Apr. 2016 &ndash; Mar. 2018, JSPS KAKENHI Grant
 
 
 ## Other works
