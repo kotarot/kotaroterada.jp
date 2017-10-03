@@ -44,7 +44,7 @@ Waseda University Honjo Senior High School.
 
 ## Research Interests
 
-VLSI design, electronic design automation (EDA), high-level synthesis, and combinatorial optimization
+VLSI design, electronic design automation (EDA), high-level synthesis, combinatorial optimization, CMOS annealing, quantum annealing, and quantum computer.
 
 
 ## Membership of Academic Societies
@@ -136,7 +136,8 @@ Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html
 
 #### Rubik's Cube Fewest Moves
 
-* **3rd place** in Rubik's Cube Fewest Moves at [Kanto Winter 2012](https://www.worldcubeassociation.org/competitions/KantoWinter2012)
+* **3rd place** in Rubik's Cube Fewest Moves at [Tachikawa FMC 2017](https://www.worldcubeassociation.org/competitions/TachikawaFMC2017)
+* **2nd place** in Rubik's Cube Fewest Moves at [Kanto Winter 2012](https://www.worldcubeassociation.org/competitions/KantoWinter2012)
 
 
 #### Pyraminx

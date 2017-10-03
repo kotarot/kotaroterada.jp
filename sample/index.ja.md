@@ -42,7 +42,7 @@ GitHub: [@kotarot](https://github.com/kotarot)
 
 ## 研究興味分野
 
-VLSI 設計, EDA, 高位合成, 組合せ最適化.
+VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量子アニーリング (量子コンピュータ).
 
 
 ## 所属学会
@@ -134,7 +134,8 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化.
 
 #### Rubik's Cube Fewest Moves
 
-* **3rd place** in Rubik's Cube Fewest Moves at [Kanto Winter 2012](https://www.worldcubeassociation.org/competitions/KantoWinter2012)
+* **3rd place** in Rubik's Cube Fewest Moves at [Tachikawa FMC 2017](https://www.worldcubeassociation.org/competitions/TachikawaFMC2017)
+* **2nd place** in Rubik's Cube Fewest Moves at [Kanto Winter 2012](https://www.worldcubeassociation.org/competitions/KantoWinter2012)
 
 
 #### Pyraminx
