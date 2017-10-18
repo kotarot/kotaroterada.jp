@@ -63,13 +63,14 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 
 ### 学術雑誌
 
+1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A bitwidth-aware high-level synthesis algorithm using operation chainings for tiled-DR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E100-A, no. 12, 2017 (to appear).
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A high-level synthesis algorithm with inter-island distance based operation chainings for RDR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E98-A, no. 7, pp. 1366&ndash;1375, Jul. 2015.
 
 
 ### 国際会議
 
-1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with multiple-operation chainings based on path enumeration," in *Proc. of 2015 IEEE International Symposium on Circuits and Systems (ISCAS 2015)*, pp. 2129&ndash;2132, May. 2015.
-1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with operation chainings using chaining enumeration," in *Proc. of 2014 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS 2014)*, pp. 248&ndash;251, Nov. 2014.
+1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with multiple-operation chainings based on path enumeration," in *Proc. of 2015 IEEE International Symposium on Circuits and Systems (ISCAS)*, pp. 2129&ndash;2132, May 2015.
+1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with operation chainings using chaining enumeration," in *Proc. of 2014 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, pp. 248&ndash;251, Nov. 2014.
 
 
 ### 国内学会・研究会
