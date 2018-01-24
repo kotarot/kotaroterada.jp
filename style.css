@@ -38,18 +38,17 @@ img {
 
 @media all and (min-width: 481px) {
     .photo-wrap {
-        float: right;
-        margin-top: 2.25em;
-        width: 240px;
+        margin-top: 1.5em;
+        width: 280px;
         height: auto;
     }
 }
 @media all and (max-width: 480px) {
     .photo-wrap {
-        margin-top: 2.25em;
+        margin-top: 1.5em;
         margin-left: auto;
         margin-right: auto;
-        width: 240px;
+        width: 280px;
         height: auto;
     }
     .container {
@@ -58,6 +57,23 @@ img {
     .site-nav a {
         padding: 0 0;
     }
+}
+
+.header-cv {
+    margin-top: 1em;
+}
+@media all and (min-width: 48em) {
+    .header-cv {
+        margin-top: 5em;
+    }
+}
+.header-name {
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+.padding-left-zero {
+    padding-left: 0;
 }
 
 .site-credits {

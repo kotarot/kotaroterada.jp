@@ -62,10 +62,15 @@ if __name__ == '__main__':
 
     # Pre-processing: Add <main> & photo
     html_sec = '<main class="site-main" role="main">' \
-             + '<div class="container"><div class="photo-wrap">' \
-             + '<img src="photo.jpg" width="240" height="320"></div></div>' \
              + html_sec \
              + '</main>'
+    html_photo = '<div class="container"><div class="gw"><div class="g md-one-half">' \
+               + '<div class="photo-wrap"><img src="photo.jpg" width="280" height="280"></div>' \
+               + '</div><div class="g md-one-half padding-left-zero">' \
+               + '<div class="header-cv">Curriculum Vitae</div>' \
+               + '<div class="header-name">' + conf.get('cv', 'name') + '</div>' \
+               + '</div></div></div>'
+    html_sec = html_sec.replace('{{photo}}', html_photo)
 
     # Into BeautifulSoup
     soup_sec = BeautifulSoup(html_sec)

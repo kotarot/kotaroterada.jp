@@ -1,5 +1,7 @@
 [Switch to English version](http://www.togawa.cs.waseda.ac.jp/~kotaro.terada/)
 
+{{photo}}
+
 ## 所属
 
 2015年4月 &ndash; 現在  
