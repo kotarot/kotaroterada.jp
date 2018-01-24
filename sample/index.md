@@ -95,8 +95,8 @@ VLSI design, electronic design automation (EDA), high-level synthesis, combinato
 
 ## Grants
 
-1. Jun. 2017 &ndash; Mar. 2018, Waseda Research Institute for Science and Engineering, Early Bird - Young Scientists' Community
-1. Apr. 2016 &ndash; Mar. 2018, JSPS KAKENHI Grant
+1. Jun. 2017 &ndash; Mar. 2018, Waseda Research Institute for Science and Engineering, Grant-in-Aid for Young Scientists (Early Bird)
+1. Apr. 2016 &ndash; Mar. 2018, JSPS KAKENHI Grant-in-Aid for JSPS Fellows
 
 
 ## Other works
