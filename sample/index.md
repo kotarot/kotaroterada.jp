@@ -65,6 +65,7 @@ VLSI design, electronic design automation (EDA), high-level synthesis, combinato
 
 ### International Conferences
 
+1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "An Ising model mapping to solve rectangle packing problem," in *Proc. of 2018 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)*, 2018 (to appear).
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with multiple-operation chainings based on path enumeration," in *Proc. of 2015 IEEE International Symposium on Circuits and Systems (ISCAS)*, pp. 2129&ndash;2132, May 2015.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with operation chainings using chaining enumeration," in *Proc. of 2014 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, pp. 248&ndash;251, Nov. 2014.
 
