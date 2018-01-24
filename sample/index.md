@@ -59,7 +59,7 @@ VLSI design, electronic design automation (EDA), high-level synthesis, combinato
 
 ### Journals
 
-1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A bitwidth-aware high-level synthesis algorithm using operation chainings for tiled-DR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E100-A, no. 12, 2017 (to appear).
+1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A bitwidth-aware high-level synthesis algorithm using operation chainings for Tiled-DR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E100-A, no. 12, pp. 2911&ndash;2924, Dec. 2017.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A high-level synthesis algorithm with inter-island distance based operation chainings for RDR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E98-A, no. 7, pp. 1366&ndash;1375, Jul. 2015.
 
 
