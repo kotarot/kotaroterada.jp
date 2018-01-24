@@ -28,7 +28,7 @@
   </div>
 <style>
 .site-header {
-    background-image: url("./zedboard.jpg");
+    background-image: url("./pynq.jpg");
     background-position: center center;
     color: #fff;
     height: 250px;
