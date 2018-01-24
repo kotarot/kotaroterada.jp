@@ -1,3 +1,4 @@
+<i class="em em-globe_with_meridians"></i></i>
 [Switch to English version](http://www.togawa.cs.waseda.ac.jp/~kotaro.terada/)
 
 {{photo}}

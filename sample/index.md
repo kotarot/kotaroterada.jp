@@ -1,3 +1,4 @@
+<i class="em em-jp"></i>
 [Switch to Japanese version](http://www.togawa.cs.waseda.ac.jp/~kotaro.terada/index.ja.html)
 
 {{photo}}
