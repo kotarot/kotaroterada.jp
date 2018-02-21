@@ -63,24 +63,24 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 
 ### 国際会議
 
-1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "A fully-connected Ising model embedding method and its evaluation for CMOS annealing machines," Design Automation Conference 2018 (DAC 2018), Work-in-Progress Poster Session, Jun. 2018. (poster, to appear)
-1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "An Ising model mapping to solve rectangle packing problem," in *Proc. of 2018 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)*, Apr. 2018. (to appear)
-1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with multiple-operation chainings based on path enumeration," in *Proc. of 2015 IEEE International Symposium on Circuits and Systems (ISCAS)*, pp. 2129&ndash;2132, May 2015.
-1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with operation chainings using chaining enumeration," in *Proc. of 2014 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, pp. 248&ndash;251, Nov. 2014.
+1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "A fully-connected Ising model embedding method and its evaluation for CMOS annealing machines," Design Automation Conference 2018 (DAC 2018), Work-in-Progress Poster Session, San Francisco, CA, USA, Jun. 2018. (poster, to appear)
+1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "An Ising model mapping to solve rectangle packing problem," in *Proc. of 2018 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)*, Hsinchu, Taiwan, Apr. 2018. (to appear)
+1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with multiple-operation chainings based on path enumeration," in *Proc. of 2015 IEEE International Symposium on Circuits and Systems (ISCAS)*, pp. 2129&ndash;2132, Lisbon, Portugal, May 2015.
+1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with operation chainings using chaining enumeration," in *Proc. of 2014 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, pp. 248&ndash;251, Ishigaki, Japan, Nov. 2014.
 
 
 ### 国内学会・研究会
 
-1. <u>寺田晃太朗</u>, 田中宗, 林真人, 山岡雅直, 柳澤政生, 戸川望, "20KスピンCMOSアニーリングマシンを対象とした完全結合イジングモデルマッピング手法," 日本物理学会2017年秋季大会, Sep. 2017.
-1. <u>寺田晃太朗</u>, 田中宗, 林真人, 山岡雅直, 柳澤政生, 戸川望, "20KスピンCMOSアニーリングマシンを対象とした完全結合イジングモデルマッピング手法と評価," 情報処理学会DAシンポジウム2017論文集, pp. 163&ndash;168, Sep. 2017.
-1. 長谷川健人, 石川遼太, <u>寺田晃太朗</u>, 川村一志, 多和田雅師, 戸川望, "組込みデバイスとFPGAを用いたナンバーリンクソルバの設計と実装," 情報処理学会DAシンポジウム2017ポスター発表, Aug. 2017.
-1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算ビット幅に基づく演算チェイニングを用いたRDRアーキテクチャ向け性能指向高位合成手法," 電子情報通信学会2016年ソサイエティ大会講演論文集, p. 71, Sep. 2016.
-1. <u>寺田晃太朗</u>, 長谷川健人, 川村一志, 多和田雅師, 戸川望, "機械学習とFPGAを用いたナンバーリンクソルバ," 情報処理学会DAシンポジウム2016ポスター発表, Sep. 2016.
-1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "DFGのクリティカルパス最適化に基づく演算チェイニングを用いたRDRアーキテクチャ対象高位合成手法," 信学技報, VLD2016-05, pp. 41&ndash;46, May 2016.
-1. <u>寺田晃太朗</u>, 川村一志, 多和田雅師, 藤原晃一, 戸川望, "機械学習を用いたナンバーリンクソルバ," 情報処理学会DAシンポジウム2015ポスター発表, Aug. 2015.
-1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算チェイニングの候補列挙・選択アルゴリズムを用いたフロアプラン指向高位合成手法," 情報処理学会DAシンポジウム2015論文集, pp. 17&ndash;22, Aug. 2015.
-1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "多段演算チェイニングを利用した配線遅延を考慮した高位合成手法," 情報処理学会DAシンポジウム2014論文集, pp. 115&ndash;120, Aug. 2014.
-1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算チェイニング候補列挙に基づく配線遅延を考慮した高位合成手法," 第27回回路とシステムワークショップ論文集, pp. 440&ndash;445, Aug. 2014.
+1. <u>寺田晃太朗</u>, 田中宗, 林真人, 山岡雅直, 柳澤政生, 戸川望, "20KスピンCMOSアニーリングマシンを対象とした完全結合イジングモデルマッピング手法," 日本物理学会2017年秋季大会, 盛岡市, Sep. 2017.
+1. <u>寺田晃太朗</u>, 田中宗, 林真人, 山岡雅直, 柳澤政生, 戸川望, "20KスピンCMOSアニーリングマシンを対象とした完全結合イジングモデルマッピング手法と評価," 情報処理学会DAシンポジウム2017論文集, pp. 163&ndash;168, 加賀市, Sep. 2017.
+1. 長谷川健人, 石川遼太, <u>寺田晃太朗</u>, 川村一志, 多和田雅師, 戸川望, "組込みデバイスとFPGAを用いたナンバーリンクソルバの設計と実装," 情報処理学会DAシンポジウム2017ポスター発表, 加賀市, Aug. 2017. (ポスター発表)
+1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算ビット幅に基づく演算チェイニングを用いたRDRアーキテクチャ向け性能指向高位合成手法," 電子情報通信学会2016年ソサイエティ大会講演論文集, p. 71, 札幌市, Sep. 2016.
+1. <u>寺田晃太朗</u>, 長谷川健人, 川村一志, 多和田雅師, 戸川望, "機械学習とFPGAを用いたナンバーリンクソルバ," 情報処理学会DAシンポジウム2016ポスター発表, 加賀市, Sep. 2016. (ポスター発表)
+1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "DFGのクリティカルパス最適化に基づく演算チェイニングを用いたRDRアーキテクチャ対象高位合成手法," 信学技報, VLD2016-05, pp. 41&ndash;46, 北九州市, May 2016.
+1. <u>寺田晃太朗</u>, 川村一志, 多和田雅師, 藤原晃一, 戸川望, "機械学習を用いたナンバーリンクソルバ," 情報処理学会DAシンポジウム2015ポスター発表, 加賀市, Aug. 2015. (ポスター発表)
+1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算チェイニングの候補列挙・選択アルゴリズムを用いたフロアプラン指向高位合成手法," 情報処理学会DAシンポジウム2015論文集, pp. 17&ndash;22, 加賀市, Aug. 2015.
+1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "多段演算チェイニングを利用した配線遅延を考慮した高位合成手法," 情報処理学会DAシンポジウム2014論文集, pp. 115&ndash;120, 下呂市, Aug. 2014.
+1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算チェイニング候補列挙に基づく配線遅延を考慮した高位合成手法," 第27回回路とシステムワークショップ論文集, pp. 440&ndash;445, 淡路市, Aug. 2014.
 
 
 ## 表彰
