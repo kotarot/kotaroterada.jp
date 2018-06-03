@@ -1,58 +1,58 @@
 <i class="em em-jp"></i>
-[Switch to Japanese version](http://www.togawa.cs.waseda.ac.jp/~kotaro.terada/index.ja.html)
+[Switch to Japanese version](http://kotaroterada.jp/cv.ja)
 
 {{photo}}
 
 ## Position
 
-Apr. 2015 &ndash; present  
-Ph.D. student  
-Togawa Laboratory,  
-Department of Computer Science and Communications Engineering,  
-[Waseda University](http://www.waseda.jp/top/en), Japan
+Apr. 2018 &ndash; present  
+Software Engineer, Yahoo Japan Corporation
 
-Apr. 2016 &ndash; present  
-[JSPS](https://www.jsps.go.jp/english/index.html) Research Fellow
+May 2018 &ndash; present  
+Chief Technical Advisor, Tribox Inc.
 
 
 ## Contact Info
 
-Email: kotaro.terada [at] togawa.cs.waseda.ac.jp  
-Office: 55N-603A Togawa Lab., Okubo 3-4-1, Shinjuku-ku, Tokyo, 169-8555 Japan
-
+Email: kotaro [at] tribox.jp  
 GitHub: [@kotarot](https://github.com/kotarot)  
 
 
 ## Degrees
 
+**Doctor of Engineering**, Waseda University, Mar. 2018.  
 **Master of Engineering**, Waseda University, Mar. 2015.  
 **Bachelor of Engineering**, Waseda University, Mar. 2014.
 
 
-## Experience &amp; Education
+## Education
 
-Oct. 2014 &ndash; Mar. 2015  
-Technical Advisor, [Tribox Inc.](http://tribox.com).  
-My work was developing [tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com), and [contest.tribox.com](https://contest.tribox.com).
+Apr. 2015 &ndash; Mar. 2018  
+Doctor of Engineering, Department of Computer Science and Communications Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/professor.html))
 
 Apr. 2014 &ndash; Mar. 2015  
-Master of Engineering, Department of Computer Science and Communications Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/associate_professor.html))
+Master of Engineering, Department of Computer Science and Communications Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/professor.html))
 
 Apr. 2010 &ndash; Mar. 2014  
-Bachelor of Engineering, Department of Computer Science and Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/associate_professor.html))
+Bachelor of Engineering, Department of Computer Science and Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/professor.html))
 
 Apr. 2007 &ndash; Mar. 2010  
 Waseda University Honjo Senior High School.
 
 
+## Job Experience
+
+Apr. 2016 &ndash; Mar. 2018  
+[JSPS](https://www.jsps.go.jp/english/index.html) Research Fellow
+
+Oct. 2014 &ndash; Mar. 2015  
+Technical Advisor, [Tribox Inc.](http://tribox.com).  
+My work was developing [tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com), and [contest.tribox.com](https://contest.tribox.com).
+
+
 ## Research Interests
 
 VLSI design, electronic design automation (EDA), high-level synthesis, combinatorial optimization, CMOS annealing, quantum annealing, and quantum computer.
-
-
-## Membership of Academic Societies
-
-[IEICE](http://www.ieice.org/eng/index.html), [IPSJ](http://www.ipsj.or.jp/english/index.html), and [JPS](http://www.jps.or.jp/)
 
 
 ## Publications

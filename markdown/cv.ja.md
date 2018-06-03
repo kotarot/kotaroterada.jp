@@ -1,56 +1,59 @@
 <i class="em em-globe_with_meridians"></i></i>
-[Switch to English version](http://www.togawa.cs.waseda.ac.jp/~kotaro.terada/)
+[Switch to English version](http://kotaroterada.jp/cv)
 
 {{photo}}
 
 ## 所属
 
-2015年4月 &ndash; 現在  
-[早稲田大学](http://www.waseda.jp/top/) 大学院基幹理工学研究科 情報理工・情報通信専攻 戸川研究室 博士後期課程
+2018年4月 &ndash; 現在  
+株式会社ヤフー エンジニア
 
-2016年4月 &ndash; 現在  
-[日本学術振興会](https://www.jsps.go.jp/) 特別研究員 (DC)
+2018年5月 &ndash; 現在  
+株式会社トライボックス チーフテクニカルアドバイザー
 
 
 ## 連絡先
 
-Email: kotaro.terada [at] togawa.cs.waseda.ac.jp  
-Office: 〒169-8555 東京都新宿区大久保 3-4-1 早稲田大学理工学術院 55N-603A 戸川研究室
-
+Email: kotaro [at] tribox.jp  
 GitHub: [@kotarot](https://github.com/kotarot)  
 
 
 ## 学位
 
+**博士 (工学)**, 早稲田大学, 2018年3月.  
 **修士 (工学)**, 早稲田大学, 2015年3月.  
 **学士 (工学)**, 早稲田大学, 2014年3月.
 
 
-## 経歴 &amp; 学歴
+## 学歴
+
+2015年4月 &ndash; 2018年3月  
+早稲田大学 大学院基幹理工学研究科 情報理工・情報通信専攻 博士後期課程 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/professor.html))
+
+2014年4月 &ndash; 2015年3月  
+早稲田大学 大学院基幹理工学研究科 情報理工・情報通信専攻 修士課程 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/professor.html))
+
+2010年4月 &ndash; 2014年3月  
+早稲田大学 基幹理工学部 情報理工学科 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/professor.html))
+
+2007年4月 &ndash; 2010年3月  
+早稲田大学本庄高等学院 普通科
+
+
+## 経歴
+
+2016年4月 &ndash; 現在  
+[日本学術振興会](https://www.jsps.go.jp/) 特別研究員 (DC)
 
 2014年10月 &ndash; 2016年3月  
 [株式会社トライボックス](http://tribox.com) テクニカルアドバイザー  
 [tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com),
 [triboxstickers.com](https://triboxstickers.com), [contest.tribox.com](https://contest.tribox.com) の開発・保守．
 
-2014年4月 &ndash; 2015年3月  
-早稲田大学 大学院基幹理工学研究科 情報理工・情報通信専攻 修士課程 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/associate_professor.html))
-
-2010年4月 &ndash; 2014年3月  
-早稲田大学 基幹理工学部 情報理工学科 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/associate_professor.html))
-
-2007年4月 &ndash; 2010年3月  
-早稲田大学本庄高等学院 普通科
-
 
 ## 研究興味分野
 
 VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量子アニーリング (量子コンピュータ).
-
-
-## 所属学会
-
-[電子情報通信学会](http://www.ieice.org/jpn/index.html), [情報処理学会](http://www.ipsj.or.jp/), [日本物理学会](http://www.jps.or.jp/)
 
 
 ## 発表業績
