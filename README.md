@@ -17,4 +17,4 @@ This repository contains "CV Generator" and my CV data.
 
 
 ## Demo
-[http://www.togawa.cs.waseda.ac.jp/~kotaro.terada/](http://www.togawa.cs.waseda.ac.jp/~kotaro.terada/)
+[http://kotaroterada.jp/cv](http://kotaroterada.jp/cv)
