@@ -117,7 +117,7 @@ if __name__ == '__main__':
 
     # Jinja template
     env = Environment(loader=FileSystemLoader('./', encoding='utf-8'))
-    tpl = env.get_template('index.tpl')
+    tpl = env.get_template('cv.tpl')
 
     page = {
         'lang':        args.lang,

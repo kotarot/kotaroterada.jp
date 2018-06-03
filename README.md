@@ -11,9 +11,9 @@ This repository contains "CV Generator" and my CV data.
 ## Usage
 
 1. Install packages: `pip install -r packages_requirements.txt`
-2. Edit markdown (e.g. `index.md`).
+2. Edit markdown (e.g. `markdown/cv.md`).
 3. Edit and set parameters in `cv.conf`.
-4. Convert markdown to html: `./convert.py sample/index.md -o index.html`
+4. Convert markdown to html: `./convert.py markdown/cv.md -o cv.html`
 
 
 ## Demo
