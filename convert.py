@@ -65,9 +65,9 @@ if __name__ == '__main__':
              + html_sec \
              + '</main>'
     html_photo = '<div class="container"><div class="gw"><div class="g md-one-half">' \
-               + '<div class="photo-wrap"><img src="photo.jpg" width="280" height="280"></div>' \
+               + '<div class="photo-wrap"><img src="photo_macbook.jpg" width="280" height="280"></div>' \
                + '</div><div class="g md-one-half padding-left-zero">' \
-               + '<div class="header-cv">Curriculum Vitae</div>' \
+               + '<div class="header-cv">Curriculum Vitae of</div>' \
                + '<div class="header-name">' + conf.get('cv', 'name') + '</div>' \
                + '</div></div></div>'
     html_sec = html_sec.replace('{{photo}}', html_photo)
@@ -99,17 +99,15 @@ if __name__ == '__main__':
              + '</a>' \
              + '<nav class="site-nav">' \
              + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
-             + '<a href="/">' + conf.get('page', 'homename').decode('utf-8') + '</a>' \
              + '</nav></div></header>' \
              + html_toc \
              + '<footer class="site-footer">' \
              + '<div class="container">' \
              + '<nav class="site-nav">' \
              + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
-             + '<a href="/">' + conf.get('page', 'homename').decode('utf-8') + '</a>' \
              + '</nav>' \
              + '<small class="site-credits">' + conf.get('page', 'copyright').decode('utf-8') \
-             + '<br>This page is generated using <a href="https://github.com/kotarot/cv-generator">CV Generator</a></small>' \
+             + '<br>This page is generated using <a href="https://github.com/kotarot/ktcv-generator">CV Generator</a></small>' \
              + '</div></footer>'
 
     # Content with TOC
@@ -117,7 +115,7 @@ if __name__ == '__main__':
 
     # Jinja template
     env = Environment(loader=FileSystemLoader('./', encoding='utf-8'))
-    tpl = env.get_template('index.tpl')
+    tpl = env.get_template('cv.tpl')
 
     page = {
         'lang':        args.lang,
@@ -132,7 +130,7 @@ if __name__ == '__main__':
         'title':    conf.get('ogp', 'title'),
         'url':      conf.get('page', 'rooturl') + args.canonical,
         'sitename': conf.get('ogp', 'sitename'),
-        'image':    conf.get('page', 'rooturl') + 'photo.jpg'
+        'image':    conf.get('page', 'rooturl') + 'photo_macbook.jpg'
     }
 
     # Output html

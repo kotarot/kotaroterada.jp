@@ -1,11 +1,14 @@
 #!/bin/sh
 
-#cp -ap .htaccess ~/public_html/.htaccess
+#cp -ap .htaccess /var/www/kotaroterada.jp/.htaccess
 
-cp -ap skyline/css/screen.css ~/public_html/skyline/css/screen.css
-cp -ap style.css ~/public_html/style.css
+cp -ap skyline/css/screen.css /var/www/kotaroterada.jp/skyline/css/screen.css
+cp -ap style.css /var/www/kotaroterada.jp/style.css
 
-cp -ap photo.jpg ~/public_html/photo.jpg
-cp -ap pynq.jpg ~/public_html/pynq.jpg
-cp -ap index.html ~/public_html/index.html
-cp -ap index.ja.html ~/public_html/index.ja.html
+cp -ap photo_cube.jpg /var/www/kotaroterada.jp/photo_cube.jpg
+cp -ap photo_macbook.jpg /var/www/kotaroterada.jp/photo_macbook.jpg
+cp -ap pynq.jpg /var/www/kotaroterada.jp/pynq.jpg
+
+cp -ap cv.html /var/www/kotaroterada.jp/cv.html
+cp -ap cv.ja.html /var/www/kotaroterada.jp/cv.ja.html
+cp -ap index.html /var/www/kotaroterada.jp/index.html
