@@ -11,3 +11,4 @@ cp -ap pynq.jpg /var/www/kotaroterada.jp/pynq.jpg
 
 cp -ap cv.html /var/www/kotaroterada.jp/cv.html
 cp -ap cv.ja.html /var/www/kotaroterada.jp/cv.ja.html
+cp -ap index.html /var/www/kotaroterada.jp/index.html
