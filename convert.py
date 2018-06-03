@@ -65,7 +65,7 @@ if __name__ == '__main__':
              + html_sec \
              + '</main>'
     html_photo = '<div class="container"><div class="gw"><div class="g md-one-half">' \
-               + '<div class="photo-wrap"><img src="photo.jpg" width="280" height="280"></div>' \
+               + '<div class="photo-wrap"><img src="photo_macbook.jpg" width="280" height="280"></div>' \
                + '</div><div class="g md-one-half padding-left-zero">' \
                + '<div class="header-cv">Curriculum Vitae</div>' \
                + '<div class="header-name">' + conf.get('cv', 'name') + '</div>' \
@@ -132,7 +132,7 @@ if __name__ == '__main__':
         'title':    conf.get('ogp', 'title'),
         'url':      conf.get('page', 'rooturl') + args.canonical,
         'sitename': conf.get('ogp', 'sitename'),
-        'image':    conf.get('page', 'rooturl') + 'photo.jpg'
+        'image':    conf.get('page', 'rooturl') + 'photo_macbook.jpg'
     }
 
     # Output html
