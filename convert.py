@@ -107,7 +107,7 @@ if __name__ == '__main__':
              + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
              + '</nav>' \
              + '<small class="site-credits">' + conf.get('page', 'copyright').decode('utf-8') \
-             + '<br>This page is generated using <a href="https://github.com/kotarot/cv-generator">CV Generator</a></small>' \
+             + '<br>This page is generated using <a href="https://github.com/kotarot/ktcv-generator">CV Generator</a></small>' \
              + '</div></footer>'
 
     # Content with TOC
