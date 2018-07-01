@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#cp -ap .htaccess /var/www/kotaroterada.jp/.htaccess
+cp -ap .htaccess /var/www/kotaroterada.jp/.htaccess
 
 cp -ap skyline/css/screen.css /var/www/kotaroterada.jp/skyline/css/screen.css
 cp -ap style.css /var/www/kotaroterada.jp/style.css
