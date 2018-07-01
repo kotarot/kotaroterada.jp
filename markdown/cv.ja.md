@@ -1,5 +1,5 @@
 <i class="em em-globe_with_meridians"></i></i>
-[Switch to English version](http://kotaroterada.jp/cv)
+[Switch to English version](/cv)
 
 {{photo}}
 

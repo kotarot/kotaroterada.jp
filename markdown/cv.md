@@ -1,5 +1,5 @@
 <i class="em em-jp"></i>
-[Switch to Japanese version](http://kotaroterada.jp/cv.ja)
+[Switch to Japanese version](/cv.ja)
 
 {{photo}}
 
