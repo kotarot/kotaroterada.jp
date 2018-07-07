@@ -129,9 +129,14 @@ Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html
 * Cubjectives: A tool to compute and visualize World Cube Association data (GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
 
 
-### Speed cubing
+### Speed cubing &mdash; Red Bull
 
-[List of my all results](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01)
+* **2nd place** in Re-scramble at [Red Bull Rubik's Cube World Championship 2018 Japan Qualifier](https://mindgamers.redbull.com/rubiks/event/22)
+
+
+### Speed cubing &mdash; WCA
+
+[My WCA results](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01)
 
 
 #### Rubik's Cube Blindfolded

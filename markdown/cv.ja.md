@@ -130,9 +130,14 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 * Cubjectives: A tool to compute and visualize World Cube Association data (GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
 
 
-### スピードキュービング
+### スピードキュービング &mdash; Red Bull
 
-[今までの全記録一覧](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01)
+* **2nd place** in Re-scramble at [Red Bull Rubik's Cube World Championship 2018 Japan Qualifier](https://mindgamers.redbull.com/rubiks/event/22)
+
+
+### スピードキュービング &mdash; WCA
+
+[今までのWCA記録](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01)
 
 
 #### Rubik's Cube Blindfolded
