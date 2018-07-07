@@ -119,7 +119,7 @@ Prize: Short list
 Source code: [GitHub](https://github.com/nikken7101/susuwatari)  
 Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html), [週間アスキー No. 1073](https://www.amazon.co.jp/dp/B01DSPE7DO), and more.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Px5RpnOdf6U" frameborder="0" allowfullscreen></iframe>
+<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/Px5RpnOdf6U" frameborder="0" allowfullscreen></iframe>
 
 
 ### Contributions to Open Source Projects

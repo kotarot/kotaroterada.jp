@@ -35,5 +35,18 @@
     height: 250px;
 }
 </style>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script>
+$(function() {
+    var container_width = $('section#container-0').width();
+    if (container_width < 580) {
+        var height = (container_width) * 9 / 16;
+        $('iframe.youtube').attr('width', container_width);
+        $('iframe.youtube').attr('height', height);
+    }
+});
+</script>
+
  </body>
 </html>

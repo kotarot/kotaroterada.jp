@@ -41,23 +41,24 @@ if __name__ == '__main__':
     html_md = markdown(text=mdtext, output_format='html5')
     soup_md = BeautifulSoup(html_md)
 
+
     # If the first element is <p>, wrap it with class="block--end container"
     html_md = soup_md.prettify()
     html_md_lines = html_md.split('\n')
-    first_section = True
+    section_num = 0
     if '<p>' in html_md_lines[0]:
-        html_md_lines[0] = html_md_lines[0].replace('<p>', '<section class="block--ends container"><p>')
-        first_section = False
+        html_md_lines[0] = html_md_lines[0].replace('<p>', '<section class="block--ends container" id="container-' + str(section_num) + '"><p>')
+        section_num += 1
 
     # Pre-processing: Wrap <h2> and its followings with <section>
     html_sec = ''
     for line in html_md_lines:
         if '<h2>' in line:
-            if first_section:
-                line = line.replace('<h2>', '<section class="block--ends container"><h2>')
-                first_section = False
+            if section_num == 0:
+                line = line.replace('<h2>', '<section class="block--ends container" id="container-' + str(section_num) + '"><h2>')
             else:
-                line = line.replace('<h2>', '</section><section class="block container"><h2>')
+                line = line.replace('<h2>', '</section><section class="block container" id="container-' + str(section_num) + '"><h2>')
+            section_num += 1
         html_sec += line
 
     # Pre-processing: Add <main> & photo
