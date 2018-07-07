@@ -7,7 +7,8 @@
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="skyline/css/screen.css" />
   <link rel="stylesheet" href="style.css" />
-  <link rel="stylesheet" href="https://afeld.github.io/emoji-css/emoji.css">
+  <link rel="stylesheet" href="https://afeld.github.io/emoji-css/emoji.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous" />
   <link rel="canonical" href="{{ page.canonical }}" />
   <!--[if lt IE 9]>
   <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
