@@ -47,8 +47,7 @@ GitHub: [@kotarot](https://github.com/kotarot)
 
 2014年10月 &ndash; 2016年3月  
 [株式会社トライボックス](http://tribox.com) テクニカルアドバイザー  
-[tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com),
-[triboxstickers.com](https://triboxstickers.com), [contest.tribox.com](https://contest.tribox.com) の開発・保守．
+[tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com), [contest.tribox.com](https://contest.tribox.com) の開発・保守．
 
 
 ## 研究興味分野
@@ -140,18 +139,18 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 [今までのWCA記録](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01)
 
 
-#### Rubik's Cube Blindfolded
+#### 3&times;3&times;3 Blindfolded
 
-* **3rd place** in Rubik's Cube Blindfolded at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)
-* **2nd place** in Rubik's Cube Blindfolded at [East Japan Big Cubes 2012](https://www.worldcubeassociation.org/competitions/EastJapanBigCubes2012)
-* **2nd place** in Rubik's Cube Blindfolded at [Kansai Open 2012](https://www.worldcubeassociation.org/competitions/KansaiOpen2012)
-* **3rd place** in Rubik's Cube Blindfolded at [Matsudo Spring 2011](https://www.worldcubeassociation.org/competitions/MatsudoSpring2011)
+* **3rd place** in 3&times;3&times;3 Blindfolded at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)
+* **2nd place** in 3&times;3&times;3 Blindfolded at [East Japan Big Cubes 2012](https://www.worldcubeassociation.org/competitions/EastJapanBigCubes2012)
+* **2nd place** in 3&times;3&times;3 Blindfolded at [Kansai Open 2012](https://www.worldcubeassociation.org/competitions/KansaiOpen2012)
+* **3rd place** in 3&times;3&times;3 Blindfolded at [Matsudo Spring 2011](https://www.worldcubeassociation.org/competitions/MatsudoSpring2011)
 
 
-#### Rubik's Cube Fewest Moves
+#### 3&times;3&times;3 Fewest Moves
 
-* **3rd place** in Rubik's Cube Fewest Moves at [Tachikawa FMC 2017](https://www.worldcubeassociation.org/competitions/TachikawaFMC2017)
-* **2nd place** in Rubik's Cube Fewest Moves at [Kanto Winter 2012](https://www.worldcubeassociation.org/competitions/KantoWinter2012)
+* **3rd place** in 3&times;3&times;3 Fewest Moves at [Tachikawa FMC 2017](https://www.worldcubeassociation.org/competitions/TachikawaFMC2017)
+* **2nd place** in 3&times;3&times;3 Fewest Moves at [Kanto Winter 2012](https://www.worldcubeassociation.org/competitions/KantoWinter2012)
 
 
 #### Pyraminx
@@ -159,9 +158,9 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 * **3rd place** in Pyraminx at [Kyushu Open 2016](https://www.worldcubeassociation.org/competitions/KyushuOpen2016)
 
 
-#### Rubik's Clock
+#### Clock
 
-* **3rd place** in Rubik's Clock at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)
+* **3rd place** in Clock at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)
 
 
 #### Other events
