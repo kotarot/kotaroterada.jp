@@ -14,15 +14,15 @@ Chief Technical Advisor, Tribox Inc.
 
 ## Contact Info
 
-Email: kotaro [at] tribox.jp  
-GitHub: [@kotarot](https://github.com/kotarot)  
+<i class="fas fa-envelope"></i> Email: kotaro [at] tribox.jp  
+<i class="fab fa-github"></i> GitHub: [@kotarot](https://github.com/kotarot)  
 
 
 ## Degrees
 
 **Doctor of Engineering**, Waseda University, Mar. 2018.  
 **Master of Engineering**, Waseda University, Mar. 2015.  
-**Bachelor of Engineering**, Waseda University, Mar. 2014.
+**Bachelor of Engineering**, Waseda University, Mar. 2014.  
 
 
 ## Education
@@ -116,7 +116,7 @@ Prize: Good award (優秀賞)
 Project title: コネクトガール (Connect Girls)  
 Team: すすわたり  
 Prize: Short list  
-Source code: [GitHub](https://github.com/nikken7101/susuwatari)  
+Source code: [<i class="fab fa-github"></i> GitHub](https://github.com/nikken7101/susuwatari)  
 Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html), [週間アスキー No. 1073](https://www.amazon.co.jp/dp/B01DSPE7DO), and more.
 
 <iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/Px5RpnOdf6U" frameborder="0" allowfullscreen></iframe>
@@ -124,9 +124,9 @@ Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html
 
 ### Contributions to Open Source Projects
 
-* World Cube Association Regulations (GitHub: [cubing/wca-regulations](https://github.com/cubing/wca-regulations))
-* Translation of World Cube Association Regulations (GitHub: [cubing/wca-regulations-translations](https://github.com/cubing/wca-regulations-translations))
-* Cubjectives: A tool to compute and visualize World Cube Association data (GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
+* World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [cubing/wca-regulations](https://github.com/cubing/wca-regulations))
+* Translation of World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [cubing/wca-regulations-translations](https://github.com/cubing/wca-regulations-translations))
+* Cubjectives: A tool to compute and visualize World Cube Association data (<i class="fab fa-github"></i> GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
 
 
 ### Speed cubing &mdash; Red Bull
