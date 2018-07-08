@@ -124,8 +124,8 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 
 ### オープンソースプロジェクト等への貢献
 
-* World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [cubing/wca-regulations](https://github.com/cubing/wca-regulations))
-* Translation of World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [cubing/wca-regulations-translations](https://github.com/cubing/wca-regulations-translations))
+* World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations](https://github.com/thewca/wca-regulations))
+* Translation of World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations))
 * Cubjectives: A tool to compute and visualize World Cube Association data (<i class="fab fa-github"></i> GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
 
 

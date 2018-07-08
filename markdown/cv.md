@@ -124,8 +124,8 @@ Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html
 
 ### Contributions to Open Source Projects
 
-* World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [cubing/wca-regulations](https://github.com/cubing/wca-regulations))
-* Translation of World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [cubing/wca-regulations-translations](https://github.com/cubing/wca-regulations-translations))
+* World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations](https://github.com/thewca/wca-regulations))
+* Translation of World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations))
 * Cubjectives: A tool to compute and visualize World Cube Association data (<i class="fab fa-github"></i> GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
 
 
