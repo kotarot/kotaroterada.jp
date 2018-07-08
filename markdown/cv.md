@@ -165,4 +165,5 @@ Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html
 
 #### Other events
 
+* **3rd place** in Inter-University Cube Relay as *Waseda University* at [TMU Open 2018](https://www.worldcubeassociation.org/competitions/TMUOpen2018)
 * **3rd place** in Inter-University Cube Relay as *Waseda University* at [Circles Open Spring 2017](https://www.worldcubeassociation.org/competitions/CirclesOpenSpring2017)

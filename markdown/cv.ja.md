@@ -165,4 +165,5 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 
 #### Other events
 
+* **3rd place** in Inter-University Cube Relay as *Waseda University* at [TMU Open 2018](https://www.worldcubeassociation.org/competitions/TMUOpen2018)
 * **3rd place** in Inter-University Cube Relay as *Waseda University* at [Circles Open Spring 2017](https://www.worldcubeassociation.org/competitions/CirclesOpenSpring2017)
