@@ -149,18 +149,22 @@ Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html
 
 #### 3&times;3&times;3 Fewest Moves
 
+* **2nd place** in 3&times;3&times;3 Fewest Moves at [Japan Championship 2018](https://www.worldcubeassociation.org/competitions/JapanChampionship2018)
+* **2nd place** in 3&times;3&times;3 Fewest Moves at [Hawaii 2018](https://www.worldcubeassociation.org/competitions/Hawaii2018)
+* **3rd place** in 3&times;3&times;3 Fewest Moves at [Hiroshima 2018](https://www.worldcubeassociation.org/competitions/Hiroshima2018)
 * **3rd place** in 3&times;3&times;3 Fewest Moves at [Tachikawa FMC 2017](https://www.worldcubeassociation.org/competitions/TachikawaFMC2017)
 * **2nd place** in 3&times;3&times;3 Fewest Moves at [Kanto Winter 2012](https://www.worldcubeassociation.org/competitions/KantoWinter2012)
-
-
-#### Pyraminx
-
-* **3rd place** in Pyraminx at [Kyushu Open 2016](https://www.worldcubeassociation.org/competitions/KyushuOpen2016)
 
 
 #### Clock
 
 * **3rd place** in Clock at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)
+
+
+#### Pyraminx
+
+* **1st place** in Pyraminx at [Tohoku 2018](https://www.worldcubeassociation.org/competitions/Tohoku2018)
+* **3rd place** in Pyraminx at [Kyushu Open 2016](https://www.worldcubeassociation.org/competitions/KyushuOpen2016)
 
 
 #### Other events
