@@ -14,25 +14,27 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 
-# Command line args
-parser = argparse.ArgumentParser(description='CV Generator')
-parser.add_argument('input', nargs=None, default=None, type=str,
-                    help='Input Markdown file')
-parser.add_argument('--output', '-o', default=None, type=str,
-                    help='Output HTML file')
-parser.add_argument('--lang', '-l', default='en', type=str,
-                    help='Page language')
-parser.add_argument('--locale', '-lc', default='en_US', type=str,
-                    help='Page locale')
-parser.add_argument('--canonical', '-c', default='', type=str,
-                    help='Canonical')
-args = parser.parse_args()
+def main():
 
-# Config file
-conf = ConfigParser.SafeConfigParser()
-conf.read('./cv.conf')
+    # Command line args
+    parser = argparse.ArgumentParser(description='CV Generator')
+    parser.add_argument('input', nargs=None, default=None, type=str,
+                        help='Input Markdown file')
+    parser.add_argument('--output', '-o', default=None, type=str,
+                        help='Output HTML file')
+    parser.add_argument('--lang', '-l', default='en', type=str,
+                        help='Page language')
+    parser.add_argument('--locale', '-lc', default='en_US', type=str,
+                        help='Page locale')
+    parser.add_argument('--canonical', '-c', default='', type=str,
+                        help='Canonical')
+    parser.add_argument('--prettify', '-p', default=False, action='store_true',
+                        help='Outputs prettified HTML (for debug use only)')
+    args = parser.parse_args()
 
-if __name__ == '__main__':
+    # Config file
+    conf = ConfigParser.SafeConfigParser()
+    conf.read('./cv.conf')
 
     # markdown -> html
     fin = codecs.open(args.input, mode='r', encoding='utf-8')
@@ -43,7 +45,10 @@ if __name__ == '__main__':
 
 
     # If the first element is <p>, wrap it with class="block--end container"
-    html_md = soup_md.prettify()
+    if args.prettify:
+        html_md = soup_md.prettify();
+    else:
+        html_md = soup_md.renderContents()
     html_md_lines = html_md.split('\n')
     section_num = 0
     if '<p>' in html_md_lines[0]:
@@ -112,7 +117,10 @@ if __name__ == '__main__':
              + '</div></footer>'
 
     # Content with TOC
-    content = BeautifulSoup(html_toc).prettify()
+    if args.prettify:
+        content = BeautifulSoup(html_toc).prettify()
+    else:
+        content = BeautifulSoup(html_toc).renderContents()
 
     # Jinja template
     env = Environment(loader=FileSystemLoader('./', encoding='utf-8'))
@@ -144,3 +152,7 @@ if __name__ == '__main__':
         with open(args.output, 'w') as file:
             file.write(html)
             print 'Converted: %s -> %s' % (args.input, args.output)
+
+
+if __name__ == '__main__':
+    main()
