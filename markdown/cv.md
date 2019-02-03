@@ -46,13 +46,13 @@ Apr. 2016 &ndash; Mar. 2018
 [JSPS](https://www.jsps.go.jp/english/index.html) Research Fellow
 
 Oct. 2014 &ndash; Mar. 2015  
-Technical Advisor, [Tribox Inc.](http://tribox.com).  
-My work was developing [tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com), and [contest.tribox.com](https://contest.tribox.com).
+Technical Advisor, [Tribox Inc.](http://tribox.com)  
+My work was developing [tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com), and [contest.tribox.com](https://contest.tribox.com)
 
 
 ## Research Interests
 
-VLSI design, electronic design automation (EDA), high-level synthesis, combinatorial optimization, CMOS annealing, quantum annealing, and quantum computer.
+VLSI design, electronic design automation (EDA), high-level synthesis, combinatorial optimization, CMOS annealing, quantum annealing, and quantum computer
 
 
 ## Publications

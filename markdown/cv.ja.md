@@ -47,12 +47,12 @@
 
 2014年10月 &ndash; 2016年3月  
 [株式会社トライボックス](http://tribox.com) テクニカルアドバイザー  
-[tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com), [contest.tribox.com](https://contest.tribox.com) の開発・保守．
+[tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com), [contest.tribox.com](https://contest.tribox.com) の開発・保守
 
 
 ## 研究興味分野
 
-VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量子アニーリング (量子コンピュータ).
+VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量子アニーリング (量子コンピュータ)
 
 
 ## 発表業績
