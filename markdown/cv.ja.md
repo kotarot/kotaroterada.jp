@@ -5,6 +5,9 @@
 
 ## 所属
 
+2019年4月 &ndash; 現在  
+早稲田大学 客員次席研究員 (研究院客員講師)
+
 2018年4月 &ndash; 現在  
 ヤフー株式会社 エンジニア
 
@@ -103,6 +106,22 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 
 ## その他
 
+### オープンソースプロジェクト等への貢献
+
+* Apache NiFi (<i class="fab fa-github"></i> GitHub: [apache/nifi](https://github.com/apache/nifi))
+* Apache NiFi Registry (<i class="fab fa-github"></i> GitHub: [apache/nifi-registry](https://github.com/apache/nifi-registry))
+* Apache ORC (<i class="fab fa-github"></i> GitHub: [apache/orc](https://github.com/apache/orc))
+* World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations](https://github.com/thewca/wca-regulations))
+* Translation of World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations))
+* Cubjectives: A tool to compute and visualize World Cube Association data (<i class="fab fa-github"></i> GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
+
+
+### 技術ブログ
+
+* [量子アニーリングがチョットワカルようになる記事 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/advent-calendar-2018/quantum-annealing/)
+* [ヤフーCTO藤門、Advent Calendar 「Best Author」に肉ランチで表彰！ - linotice＊ | Yahoo! JAPAN RECRUITMENT](https://linotice.tumblr.com/post/183765673679/20190328?fbclid=IwAR3AqJYbHgZCXRDX8nLXXjk0FbMcgV6oD87IERM6Ik4lBFKOXgBl7mfK8OA)
+
+
 ### ハッカソン
 
 #### [Hack Day 2017](http://hackday.jp/2017/)
@@ -120,13 +139,6 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 メディア掲載: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html)、[週間アスキー No. 1073](https://www.amazon.co.jp/dp/B01DSPE7DO) 他
 
 <iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/Px5RpnOdf6U" frameborder="0" allowfullscreen></iframe>
-
-
-### オープンソースプロジェクト等への貢献
-
-* World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations](https://github.com/thewca/wca-regulations))
-* Translation of World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations))
-* Cubjectives: A tool to compute and visualize World Cube Association data (<i class="fab fa-github"></i> GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
 
 
 ### スピードキュービング &mdash; Red Bull
