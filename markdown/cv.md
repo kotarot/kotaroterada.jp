@@ -5,6 +5,9 @@
 
 ## Position
 
+Aug. 2019 &ndash; present  
+Member, WCA Regulations Committee (WRC)
+
 Apr. 2019 &ndash; present  
 Researcher, Waseda University
 
