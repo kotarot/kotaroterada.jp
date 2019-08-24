@@ -41,8 +41,10 @@
 <script>
 $(function() {
     var container_width = $('section#container-0').width();
+    var original_width = $('iframe.youtube').attr('width');
+    var original_height = $('iframe.youtube').attr('height');
     if (container_width < 580) {
-        var height = (container_width) * 9 / 16;
+        var height = (container_width) * original_height / original_width;
         $('iframe.youtube').attr('width', container_width);
         $('iframe.youtube').attr('height', height);
     }
