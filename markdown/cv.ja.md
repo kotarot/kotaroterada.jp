@@ -62,6 +62,7 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 
 ### 学術雑誌
 
+1. D. Oku, <u>K. Terada</u>, M. Hayashi, M. Yamaoka, S. Tanaka, and N. Togawa, "A fully-connected Ising model embedding method and its evaluation for CMOS annealing machines," *IEICE Trans. on Information and Systems*, vol. E102-D, no. 9, Sep. 2019 (to appear).
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A bitwidth-aware high-level synthesis algorithm using operation chainings for Tiled-DR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E100-A, no. 12, pp. 2911&ndash;2924, Dec. 2017.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A high-level synthesis algorithm with inter-island distance based operation chainings for RDR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E98-A, no. 7, pp. 1366&ndash;1375, Jul. 2015.
 
@@ -141,14 +142,9 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 <iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/Px5RpnOdf6U" frameborder="0" allowfullscreen></iframe>
 
 
-### スピードキュービング &mdash; Red Bull
-
-* **2nd place** in Re-scramble at [Red Bull Rubik's Cube World Championship 2018 Japan Qualifier](https://mindgamers.redbull.com/rubiks/event/22)
-
-
 ### スピードキュービング &mdash; WCA
 
-[今までのWCA記録](https://www.worldcubeassociation.org/results/p.php?i=2010TERA01)
+[WCA 公式記録](https://www.worldcubeassociation.org/persons/2010TERA01)
 
 
 #### 3&times;3&times;3 Blindfolded
@@ -183,3 +179,8 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 
 * **3rd place** in Inter-University Cube Relay as *Waseda University* at [TMU Open 2018](https://www.worldcubeassociation.org/competitions/TMUOpen2018)
 * **3rd place** in Inter-University Cube Relay as *Waseda University* at [Circles Open Spring 2017](https://www.worldcubeassociation.org/competitions/CirclesOpenSpring2017)
+
+
+### スピードキュービング &mdash; Red Bull
+
+* **2nd place** in Re-scramble at [Red Bull Rubik's Cube World Championship 2018 Japan Qualifier](https://mindgamers.redbull.com/rubiks/event/22)
