@@ -3,24 +3,37 @@
 
 {{photo}}
 
-## 所属
+## 所属・経歴
 
-2019年8月 &ndash; 現在  
-WCA 規則委員会 (WCA) メンバー
-
-2019年4月 &ndash; 現在  
-早稲田大学 客員次席研究員 (研究院客員講師)
-
-2018年4月 &ndash; 現在  
+2018年4月 &ndash; **現在**  
 ヤフー株式会社 エンジニア
 
-2018年5月 &ndash; 現在  
-株式会社トライボックス チーフテクニカルアドバイザー
+2019年4月 &ndash; **現在**  
+早稲田大学 客員次席研究員 (研究院客員講師)
+
+2018年5月 &ndash; **現在**  
+[株式会社トライボックス](https://tribox.com/) チーフテクニカルアドバイザー
+
+2016年4月 &ndash; 2018年3月  
+[日本学術振興会](https://www.jsps.go.jp/) 特別研究員 (DC)
+
+2014年10月 &ndash; 2016年3月  
+[株式会社トライボックス](https://tribox.com/) テクニカルアドバイザー  
+[tribox.com](https://tribox.com/), [store.tribox.com](https://store.tribox.com/), [triboxstickers.com](https://triboxstickers.com/), [contest.tribox.com](https://contest.tribox.com/) の開発・保守
+
+
+## 活動
+
+2019年10月 &ndash; **現在**  
+[Apache NiFi](https://nifi.apache.org/) コミッター
+
+2019年8月 &ndash; **現在**  
+[WCA](https://worldcubeassociation.org/) 規則委員会 (WRC) メンバー
 
 
 ## 連絡先
 
-<i class="fas fa-envelope"></i> Email: kotaro [at] tribox.jp  
+<i class="fas fa-envelope"></i> Email: kotarot [at] apache.org  
 <i class="fab fa-github"></i> GitHub: [@kotarot](https://github.com/kotarot)  
 
 
@@ -44,16 +57,6 @@ WCA 規則委員会 (WCA) メンバー
 
 2007年4月 &ndash; 2010年3月  
 早稲田大学本庄高等学院 普通科
-
-
-## 経歴
-
-2016年4月 &ndash; 2018年3月  
-[日本学術振興会](https://www.jsps.go.jp/) 特別研究員 (DC)
-
-2014年10月 &ndash; 2016年3月  
-[株式会社トライボックス](http://tribox.com) テクニカルアドバイザー  
-[tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com), [contest.tribox.com](https://contest.tribox.com) の開発・保守
 
 
 ## 研究興味分野

@@ -3,24 +3,37 @@
 
 {{photo}}
 
-## Position
+## Work Experience
 
-Aug. 2019 &ndash; present  
-Member, WCA Regulations Committee (WRC)
-
-Apr. 2019 &ndash; present  
-Researcher, Waseda University
-
-Apr. 2018 &ndash; present  
+Apr. 2018 &ndash; **present**  
 Software Engineer, Yahoo Japan Corporation
 
-May 2018 &ndash; present  
-Chief Technical Advisor, Tribox Inc.
+Apr. 2019 &ndash; **present**  
+Researcher, Waseda University
+
+May 2018 &ndash; **present**  
+Chief Technical Advisor, [Tribox Inc.](https://tribox.com/)
+
+Apr. 2016 &ndash; Mar. 2018  
+[JSPS](https://www.jsps.go.jp/english/index.html) Research Fellow
+
+Oct. 2014 &ndash; Mar. 2015  
+Technical Advisor, [Tribox Inc.](https://tribox.com/)  
+My work was developing [tribox.com](https://tribox.com/), [store.tribox.com](https://store.tribox.com/), [triboxstickers.com](https://triboxstickers.com/), and [contest.tribox.com](https://contest.tribox.com/)
+
+
+## Additional Experience
+
+Oct. 2019 &ndash; **present**  
+[Apache NiFi](https://nifi.apache.org/) Committer
+
+Aug. 2019 &ndash; **present**  
+[WCA](https://worldcubeassociation.org/) Regulations Committee (WRC) Member
 
 
 ## Contact Info
 
-<i class="fas fa-envelope"></i> Email: kotaro [at] tribox.jp  
+<i class="fas fa-envelope"></i> Email: kotarot [at] apache.org  
 <i class="fab fa-github"></i> GitHub: [@kotarot](https://github.com/kotarot)  
 
 
@@ -44,16 +57,6 @@ Bachelor of Engineering, Department of Computer Science and Engineering, Waseda 
 
 Apr. 2007 &ndash; Mar. 2010  
 Waseda University Honjo Senior High School.
-
-
-## Job Experience
-
-Apr. 2016 &ndash; Mar. 2018  
-[JSPS](https://www.jsps.go.jp/english/index.html) Research Fellow
-
-Oct. 2014 &ndash; Mar. 2015  
-Technical Advisor, [Tribox Inc.](http://tribox.com)  
-My work was developing [tribox.com](http://tribox.com), [store.tribox.com](https://store.tribox.com), [triboxstickers.com](https://triboxstickers.com), and [contest.tribox.com](https://contest.tribox.com)
 
 
 ## Research Interests
