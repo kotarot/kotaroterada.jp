@@ -27,7 +27,7 @@
 2019年10月 &ndash; **現在**  
 [Apache NiFi](https://nifi.apache.org/) コミッター
 
-2019年8月 &ndash; **現在**  
+2019年8月 &ndash; 2020年1月  
 [WCA](https://worldcubeassociation.org/) 規則委員会 (WRC) メンバー
 
 
@@ -61,7 +61,7 @@
 
 ## 研究興味分野
 
-VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量子アニーリング (量子コンピュータ)
+ビッグデータ処理, CMOSアニーリング, デジタルアニーリング, 量子アニーリング, 量子コンピューティング, 組合せ最適化, VLSI設計, EDA, 高位合成
 
 
 ## 発表業績
@@ -118,13 +118,17 @@ VLSI 設計, EDA, 高位合成, 組合せ最適化, CMOSアニーリング, 量�
 * Apache NiFi (<i class="fab fa-github"></i> GitHub: [apache/nifi](https://github.com/apache/nifi))
 * Apache NiFi Registry (<i class="fab fa-github"></i> GitHub: [apache/nifi-registry](https://github.com/apache/nifi-registry))
 * Apache ORC (<i class="fab fa-github"></i> GitHub: [apache/orc](https://github.com/apache/orc))
+* PyQUBO (<i class="fab fa-github"></i> GitHub: [recruit-communications/pyqubo](https://github.com/recruit-communications/pyqubo))
+* World Cube Association website (<i class="fab fa-github"></i> GitHub: [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org))
 * World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations](https://github.com/thewca/wca-regulations))
-* Translation of World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations))
-* Cubjectives: A tool to compute and visualize World Cube Association data (<i class="fab fa-github"></i> GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
+* World Cube Association Regulations translation (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations))
+
+and others.
 
 
-### 技術ブログ
+### 技術ブログ記事
 
+* [ヤフー社内のデータ連携を爆速で構築する方法　#ApacheNiFi - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20191224797450/)
 * [量子アニーリングがチョットワカルようになる記事 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/advent-calendar-2018/quantum-annealing/)
 * [ヤフーCTO藤門、Advent Calendar 「Best Author」に肉ランチで表彰！ - linotice＊ | Yahoo! JAPAN RECRUITMENT](https://linotice.tumblr.com/post/183765673679/20190328?fbclid=IwAR3AqJYbHgZCXRDX8nLXXjk0FbMcgV6oD87IERM6Ik4lBFKOXgBl7mfK8OA)
 

@@ -27,7 +27,7 @@ My work was developing [tribox.com](https://tribox.com/), [store.tribox.com](htt
 Oct. 2019 &ndash; **present**  
 [Apache NiFi](https://nifi.apache.org/) Committer
 
-Aug. 2019 &ndash; **present**  
+Aug. 2019 &ndash; Jan. 2020  
 [WCA](https://worldcubeassociation.org/) Regulations Committee (WRC) Member
 
 
@@ -61,7 +61,7 @@ Waseda University Honjo Senior High School.
 
 ## Research Interests
 
-VLSI design, electronic design automation (EDA), high-level synthesis, combinatorial optimization, CMOS annealing, quantum annealing, and quantum computer
+Big Data Processing, CMOS annealing, digital annealing, quantum annealing, quantum computing, combinatorial optimization, VLSI design, electronic design automation (EDA), and high-level synthesis
 
 
 ## Publications
@@ -118,13 +118,17 @@ VLSI design, electronic design automation (EDA), high-level synthesis, combinato
 * Apache NiFi (<i class="fab fa-github"></i> GitHub: [apache/nifi](https://github.com/apache/nifi))
 * Apache NiFi Registry (<i class="fab fa-github"></i> GitHub: [apache/nifi-registry](https://github.com/apache/nifi-registry))
 * Apache ORC (<i class="fab fa-github"></i> GitHub: [apache/orc](https://github.com/apache/orc))
+* PyQUBO (<i class="fab fa-github"></i> GitHub: [recruit-communications/pyqubo](https://github.com/recruit-communications/pyqubo))
+* World Cube Association website (<i class="fab fa-github"></i> GitHub: [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org))
 * World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations](https://github.com/thewca/wca-regulations))
-* Translation of World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations))
-* Cubjectives: A tool to compute and visualize World Cube Association data (<i class="fab fa-github"></i> GitHub: [kotarot/cubjectives](https://github.com/kotarot/cubjectives))
+* World Cube Association Regulations translation (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations))
+
+and others.
 
 
-### Tech blog
+### Tech blog articles
 
+* [ヤフー社内のデータ連携を爆速で構築する方法　#ApacheNiFi - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20191224797450/)
 * [量子アニーリングがチョットワカルようになる記事 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/advent-calendar-2018/quantum-annealing/)
 * [ヤフーCTO藤門、Advent Calendar 「Best Author」に肉ランチで表彰！ - linotice＊ | Yahoo! JAPAN RECRUITMENT](https://linotice.tumblr.com/post/183765673679/20190328?fbclid=IwAR3AqJYbHgZCXRDX8nLXXjk0FbMcgV6oD87IERM6Ik4lBFKOXgBl7mfK8OA)
 
