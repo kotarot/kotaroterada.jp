@@ -2,16 +2,11 @@
 # -*- coding: utf-8 -*-
 
 import argparse
-from BeautifulSoup import BeautifulSoup, Tag
+from bs4 import BeautifulSoup, Tag
 import codecs
-import ConfigParser
+import configparser
 from jinja2 import Environment, FileSystemLoader
 from markdown import markdown
-
-# This is bad technique, but easy to use
-import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
 
 
 def main():
@@ -33,7 +28,7 @@ def main():
     args = parser.parse_args()
 
     # Config file
-    conf = ConfigParser.SafeConfigParser()
+    conf = configparser.ConfigParser()
     conf.read('./cv.conf')
 
     # markdown -> html
@@ -41,14 +36,14 @@ def main():
     mdtext = fin.read()
 
     html_md = markdown(text=mdtext, output_format='html5')
-    soup_md = BeautifulSoup(html_md)
+    soup_md = BeautifulSoup(html_md, 'html.parser')
 
 
     # If the first element is <p>, wrap it with class="block--end container"
     if args.prettify:
-        html_md = soup_md.prettify();
+        html_md = soup_md.prettify().decode('utf-8')
     else:
-        html_md = soup_md.renderContents()
+        html_md = soup_md.renderContents().decode('utf-8')
     html_md_lines = html_md.split('\n')
     section_num = 0
     if '<p>' in html_md_lines[0]:
@@ -79,7 +74,7 @@ def main():
     html_sec = html_sec.replace('{{photo}}', html_photo)
 
     # Into BeautifulSoup
-    soup_sec = BeautifulSoup(html_sec)
+    soup_sec = BeautifulSoup(html_sec, 'html.parser')
 
     # Add "id" in <h2> & Create list of sections for TOC
     sections = []
@@ -97,11 +92,11 @@ def main():
 
     # Add TOC at the top and bottom
     # TODO: These codes should be rewirted with template
-    html_toc = str(soup_sec).decode('utf-8')
+    html_toc = str(soup_sec)
     html_toc = '<header class="site-header" role="banner">' \
              + '<div class="container">' \
              + '<a class="branding" href="./">' \
-             + '<h1 class="branding__wordmark">' + conf.get('cv', 'name').decode('utf-8') + '</h1>' \
+             + '<h1 class="branding__wordmark">' + conf.get('cv', 'name') + '</h1>' \
              + '</a>' \
              + '<nav class="site-nav">' \
              + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
@@ -112,15 +107,15 @@ def main():
              + '<nav class="site-nav">' \
              + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
              + '</nav>' \
-             + '<small class="site-credits">' + conf.get('page', 'copyright').decode('utf-8') \
+             + '<small class="site-credits">' + conf.get('page', 'copyright') \
              + '<br>Made with <i class="fas fa-heart site-credits-heart"></i> by <a href="https://github.com/kotarot/cv-generator">CV Generator</a></small>' \
              + '</div></footer>'
 
     # Content with TOC
     if args.prettify:
-        content = BeautifulSoup(html_toc).prettify()
+        content = BeautifulSoup(html_toc, 'html.parser').prettify().decode('utf-8')
     else:
-        content = BeautifulSoup(html_toc).renderContents()
+        content = BeautifulSoup(html_toc, 'html.parser').renderContents().decode('utf-8')
 
     # Jinja template
     env = Environment(loader=FileSystemLoader('./', encoding='utf-8'))
@@ -147,11 +142,11 @@ def main():
 
     # Print or Save to file
     if args.output is None:
-        print html
+        print(html)
     else:
         with open(args.output, 'w') as file:
             file.write(html)
-            print 'Converted: %s -> %s' % (args.input, args.output)
+            print('Converted: {} -> {}'.format(args.input, args.output))
 
 
 if __name__ == '__main__':
