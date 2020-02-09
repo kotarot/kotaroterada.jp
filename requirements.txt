@@ -1,6 +1,6 @@
 beautifulsoup4==4.8.2
-configparser==4.0.2
 Jinja2==2.11.1
 Markdown==3.2
 MarkupSafe==1.1.1
+PyYAML==5.3
 soupsieve==1.9.5
