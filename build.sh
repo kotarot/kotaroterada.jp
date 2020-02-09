@@ -8,4 +8,5 @@ mkdir app/html
 ./convert.py markdown/cv.ja.md -o app/html/cv.ja.html --lang ja --locale ja_JP --canonical cv.ja
 
 # Assets to app
-cp -pr assets/* app/html/
+cp -r assets/* app/html/
+cp assets/.htaccess app/html/
