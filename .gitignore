@@ -158,6 +158,5 @@ dmypy.json
 
 ################################
 
-# Generated HTML
-html/cv.html
-html/cv.ja.html
+# Generated resources
+app/html
