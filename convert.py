@@ -3,10 +3,9 @@
 
 import argparse
 from bs4 import BeautifulSoup, Tag
-import codecs
-import configparser
 from jinja2 import Environment, FileSystemLoader
 from markdown import markdown
+import yaml
 
 
 def main():
@@ -28,16 +27,14 @@ def main():
     args = parser.parse_args()
 
     # Config file
-    conf = configparser.ConfigParser()
-    conf.read('./cv.conf')
+    with open('./cv.yaml') as f:
+        conf = yaml.safe_load(f)
 
     # markdown -> html
-    fin = codecs.open(args.input, mode='r', encoding='utf-8')
-    mdtext = fin.read()
-
+    with open(args.input) as f:
+        mdtext = f.read()
     html_md = markdown(text=mdtext, output_format='html5')
     soup_md = BeautifulSoup(html_md, 'html.parser')
-
 
     # If the first element is <p>, wrap it with class="block--end container"
     if args.prettify:
@@ -66,10 +63,10 @@ def main():
              + html_sec \
              + '</main>'
     html_photo = '<div class="container"><div class="gw"><div class="g md-one-half">' \
-               + '<div class="photo-wrap"><img src="' + conf.get('page', 'photo') + '" width="280" height="280"></div>' \
+               + '<div class="photo-wrap"><img src="' + conf['page']['photo'] + '" width="280" height="280"></div>' \
                + '</div><div class="g md-one-half padding-left-zero">' \
                + '<div class="header-cv">Curriculum Vitae of</div>' \
-               + '<div class="header-name">' + conf.get('cv', 'name') + '</div>' \
+               + '<div class="header-name">' + conf['cv']['name'] + '</div>' \
                + '</div></div></div>'
     html_sec = html_sec.replace('{{photo}}', html_photo)
 
@@ -96,7 +93,7 @@ def main():
     html_toc = '<header class="site-header" role="banner">' \
              + '<div class="container">' \
              + '<a class="branding" href="./">' \
-             + '<h1 class="branding__wordmark">' + conf.get('cv', 'name') + '</h1>' \
+             + '<h1 class="branding__wordmark">' + conf['cv']['name'] + '</h1>' \
              + '</a>' \
              + '<nav class="site-nav">' \
              + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
@@ -107,7 +104,7 @@ def main():
              + '<nav class="site-nav">' \
              + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
              + '</nav>' \
-             + '<small class="site-credits">' + conf.get('page', 'copyright') \
+             + '<small class="site-credits">' + conf['page']['copyright'] \
              + '<br>Made with <i class="fas fa-heart site-credits-heart"></i> by <a href="https://github.com/kotarot/cv-generator">CV Generator</a></small>' \
              + '</div></footer>'
 
@@ -123,19 +120,19 @@ def main():
 
     page = {
         'lang':        args.lang,
-        'title':       conf.get('page', 'title'),
-        'canonical':   conf.get('page', 'rooturl') + args.canonical,
-        'description': conf.get('page', 'description'),
-        'keywords':    conf.get('page', 'keywords'),
-        'copyright':   conf.get('page', 'copyright'),
-        'bgphoto':     conf.get('page', 'bgphoto')
+        'title':       conf['page']['title'],
+        'canonical':   conf['page']['rooturl'] + args.canonical,
+        'description': conf['page']['description'],
+        'keywords':    conf['page']['keywords'],
+        'copyright':   conf['page']['copyright'],
+        'bgphoto':     conf['page']['bgphoto']
     }
     ogp = {
         'locale':   args.locale,
-        'title':    conf.get('ogp', 'title'),
-        'url':      conf.get('page', 'rooturl') + args.canonical,
-        'sitename': conf.get('ogp', 'sitename'),
-        'image':    conf.get('page', 'rooturl') + conf.get('page', 'photo')
+        'title':    conf['ogp']['title'],
+        'url':      conf['page']['rooturl'] + args.canonical,
+        'sitename': conf['ogp']['sitename'],
+        'image':    conf['page']['rooturl'] + conf['page']['photo']
     }
 
     # Output html
