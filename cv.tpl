@@ -30,7 +30,7 @@
   </div>
 <style>
 .site-header {
-    background-image: url("./pynq.jpg");
+    background-image: url("./{{ page.bgphoto }}");
     background-position: center center;
     color: #fff;
     height: 250px;

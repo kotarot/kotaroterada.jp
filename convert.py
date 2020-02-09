@@ -66,7 +66,7 @@ def main():
              + html_sec \
              + '</main>'
     html_photo = '<div class="container"><div class="gw"><div class="g md-one-half">' \
-               + '<div class="photo-wrap"><img src="photo_macbook.jpg" width="280" height="280"></div>' \
+               + '<div class="photo-wrap"><img src="' + conf.get('page', 'photo') + '" width="280" height="280"></div>' \
                + '</div><div class="g md-one-half padding-left-zero">' \
                + '<div class="header-cv">Curriculum Vitae of</div>' \
                + '<div class="header-name">' + conf.get('cv', 'name') + '</div>' \
@@ -127,14 +127,15 @@ def main():
         'canonical':   conf.get('page', 'rooturl') + args.canonical,
         'description': conf.get('page', 'description'),
         'keywords':    conf.get('page', 'keywords'),
-        'copyright':   conf.get('page', 'copyright')
+        'copyright':   conf.get('page', 'copyright'),
+        'bgphoto':     conf.get('page', 'bgphoto')
     }
     ogp = {
         'locale':   args.locale,
         'title':    conf.get('ogp', 'title'),
         'url':      conf.get('page', 'rooturl') + args.canonical,
         'sitename': conf.get('ogp', 'sitename'),
-        'image':    conf.get('page', 'rooturl') + 'photo_macbook.jpg'
+        'image':    conf.get('page', 'rooturl') + conf.get('page', 'photo')
     }
 
     # Output html
