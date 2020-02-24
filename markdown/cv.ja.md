@@ -1,4 +1,4 @@
-<i class="em em-globe_with_meridians"></i></i>
+<i class="em em-globe_with_meridians"></i>
 [Switch to English version](/cv)
 
 {{photo}}
