@@ -19,11 +19,16 @@ This repository contains "CV Generator" and my CV data.
 
 ## Deploy the app to GCP (GAE)
 
+For manual deployment,
+
 ```
 ./build.sh
 cd app
 gcloud app deploy --project <Your Project ID>
 ```
+
+For automated deployment, see [GitHub Actions](https://github.com/kotarot/cv-generator/actions).
+
 
 ## Demo
 [https://kotaroterada.jp/cv](https://kotaroterada.jp/cv)
