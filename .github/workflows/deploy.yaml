@@ -45,4 +45,4 @@ jobs:
     # Deploy
     - name: Deploy pages
       run: |
-        cd app && gcloud app deploy
+        cd app && gcloud app deploy && gcloud app deploy dispatch.yaml
