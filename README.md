@@ -1,6 +1,6 @@
 # CV Generator
 
-This repository contains "CV Generator" and my CV data.
+CV (curriculum vitae) generation and its deployment to GCP (Google App Engine).
 
 
 ## Requirements
@@ -10,7 +10,7 @@ This repository contains "CV Generator" and my CV data.
 
 ## Usage
 
-1. Install packages: `pip install -r requirements.txt`
+1. Install packages: `pip install -r requirements.txt`.
 2. Edit markdown (e.g. `markdown/cv.md`).
 3. Edit and set parameters in `cv.conf`.
 4. Convert markdown to html: `./build.sh` or individually `./convert.py markdown/cv.md -o app/html/cv.html`.
