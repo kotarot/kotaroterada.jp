@@ -63,7 +63,7 @@ def main():
              + html_sec \
              + '</main>'
     html_photo = '<div class="container"><div class="gw"><div class="g md-one-half">' \
-               + '<div class="photo-wrap"><img src="' + conf['page']['photo'] + '" width="280" height="280"></div>' \
+               + '<div class="photo-wrap"><img src="photo/' + conf['page']['photo'] + '" width="280" height="280"></div>' \
                + '</div><div class="g md-one-half padding-left-zero">' \
                + '<div class="header-cv">Curriculum Vitae of</div>' \
                + '<div class="header-name">' + conf['cv']['name'] + '</div>' \
@@ -125,14 +125,14 @@ def main():
         'description': conf['page']['description'],
         'keywords':    conf['page']['keywords'],
         'copyright':   conf['page']['copyright'],
-        'bgphoto':     conf['page']['bgphoto']
+        'bgphoto':     'photo/' + conf['page']['bgphoto']
     }
     ogp = {
         'locale':   args.locale,
         'title':    conf['ogp']['title'],
         'url':      conf['page']['rooturl'] + args.canonical,
         'sitename': conf['ogp']['sitename'],
-        'image':    conf['page']['rooturl'] + conf['page']['photo']
+        'image':    conf['page']['rooturl'] + 'photo/' + conf['page']['photo']
     }
 
     # Output html
