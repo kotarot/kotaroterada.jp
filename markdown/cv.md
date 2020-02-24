@@ -19,7 +19,7 @@ Apr. 2016 &ndash; Mar. 2018
 
 Oct. 2014 &ndash; Mar. 2015  
 Technical Advisor, [Tribox Inc.](https://tribox.com/)  
-My work was developing [tribox.com](https://tribox.com/), [store.tribox.com](https://store.tribox.com/), [triboxstickers.com](https://triboxstickers.com/), and [contest.tribox.com](https://contest.tribox.com/)
+My work was developing [tribox.com](https://tribox.com/), [store.tribox.com](https://store.tribox.com/), triboxstickers.com (closed), and [contest.tribox.com](https://contest.tribox.com/)
 
 
 ## Additional Experience

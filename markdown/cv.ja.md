@@ -6,7 +6,7 @@
 ## 所属・経歴
 
 2018年4月 &ndash; **現在**  
-ヤフー株式会社 エンジニア
+ヤフー株式会社 ソフトウェアエンジニア
 
 2019年4月 &ndash; **現在**  
 早稲田大学 客員次席研究員 (研究院客員講師)
@@ -19,7 +19,7 @@
 
 2014年10月 &ndash; 2016年3月  
 [株式会社トライボックス](https://tribox.com/) テクニカルアドバイザー  
-[tribox.com](https://tribox.com/), [store.tribox.com](https://store.tribox.com/), [triboxstickers.com](https://triboxstickers.com/), [contest.tribox.com](https://contest.tribox.com/) の開発・保守
+[tribox.com](https://tribox.com/), [store.tribox.com](https://store.tribox.com/), triboxstickers.com (closed), [contest.tribox.com](https://contest.tribox.com/) の開発・保守
 
 
 ## 活動
