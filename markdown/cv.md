@@ -9,7 +9,11 @@ Apr. 2018 &ndash; **present**
 Software Engineer, Yahoo Japan Corporation
 
 Apr. 2019 &ndash; **present**  
-Researcher, Waseda University
+Researcher / Lecturer, Waseda University
+
+Jun. 2020 &ndash; **present**  
+Our proposed project was adopted by IPA Mitou Target.  
+[Project details](https://www.ipa.go.jp/jinzai/target/2020/gaiyou_tk-3.html)
 
 May 2018 &ndash; **present**  
 Chief Technical Advisor, [Tribox Inc.](https://tribox.com/)
@@ -61,7 +65,7 @@ Waseda University Honjo Senior High School.
 
 ## Research Interests
 
-Big Data Processing, CMOS annealing, digital annealing, quantum annealing, quantum computing, combinatorial optimization, VLSI design, electronic design automation (EDA), and high-level synthesis
+Big data processing, stream processing, quantum annealing, quantum computing, combinatorial optimization, VLSI design, electronic design automation (EDA), and high-level synthesis
 
 
 ## Publications
