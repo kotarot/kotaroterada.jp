@@ -65,7 +65,7 @@ def main():
     html_photo = '<div class="container"><div class="gw"><div class="g md-one-half">' \
                + '<div class="photo-wrap"><img src="photo/' + conf['page']['photo'] + '" width="280" height="280"></div>' \
                + '</div><div class="g md-one-half padding-left-zero">' \
-               + '<div class="header-cv">Curriculum Vitae of</div>' \
+               + '<div class="header-cv">Biography of</div>' \
                + '<div class="header-name">' + conf['cv']['name'] + '</div>' \
                + '</div></div></div>'
     html_sec = html_sec.replace('{{photo}}', html_photo)
