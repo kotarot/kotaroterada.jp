@@ -41,26 +41,47 @@
 <i class="fab fa-github"></i> GitHub: [@kotarot](https://github.com/kotarot)  
 
 
-## 学位
+## 技術活動
 
-**博士 (工学)**, 早稲田大学, 2018年3月.  
-**修士 (工学)**, 早稲田大学, 2015年3月.  
-**学士 (工学)**, 早稲田大学, 2014年3月.  
+### オープンソースプロジェクト等への貢献
 
+* Apache NiFi (<i class="fab fa-github"></i> GitHub: [apache/nifi](https://github.com/apache/nifi))
+* Apache NiFi Registry (<i class="fab fa-github"></i> GitHub: [apache/nifi-registry](https://github.com/apache/nifi-registry))
+* Apache ORC (<i class="fab fa-github"></i> GitHub: [apache/orc](https://github.com/apache/orc))
+* PyQUBO (<i class="fab fa-github"></i> GitHub: [recruit-communications/pyqubo](https://github.com/recruit-communications/pyqubo))
+* World Cube Association website (<i class="fab fa-github"></i> GitHub: [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org))
+* World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations](https://github.com/thewca/wca-regulations))
+* World Cube Association Regulations translation (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations))
 
-## 学歴
+and others.
 
-2015年4月 &ndash; 2018年3月  
-早稲田大学 大学院基幹理工学研究科 情報理工・情報通信専攻 博士後期課程 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/professor.html))
+### 発表
 
-2014年4月 &ndash; 2015年3月  
-早稲田大学 大学院基幹理工学研究科 情報理工・情報通信専攻 修士課程 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/professor.html))
+* 「[Apache NiFi 1.10.0 でなにができるようになったのか？](https://www.slideshare.net/techblogyahoo/apache-nifi-1100-hadoopreading)」[Hadoopソースコードリーディング 第27回](https://www.eventbrite.com/e/hadoop-27-tickets-80421772687), Dec. 4th, 2019.
 
-2010年4月 &ndash; 2014年3月  
-早稲田大学 基幹理工学部 情報理工学科 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/professor.html))
+### 技術ブログ記事
 
-2007年4月 &ndash; 2010年3月  
-早稲田大学本庄高等学院 普通科
+* [ヤフー社内のデータ連携を爆速で構築する方法　#ApacheNiFi - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20191224797450/), Dec. 24th, 2019.
+* [量子アニーリングがチョットワカルようになる記事 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/advent-calendar-2018/quantum-annealing/), Dec. 15th, 2018.
+* [ヤフーCTO藤門、Advent Calendar 「Best Author」に肉ランチで表彰！ - linotice](https://about.yahoo.co.jp/hr/linotice/20190328.html), Mar. 28th, 2019.
+
+### ハッカソン
+
+#### [Hack Day 2017](http://hackday.jp/2017/)
+
+作品名: ファンさん  
+チーム: けんけんぱ  
+表彰: 優秀賞  
+
+#### [Hack Day 2016](http://hackday.jp/2016/)
+
+作品名: コネクトガール (Connect Girls)  
+チーム: すすわたり  
+表彰: Short list  
+ソースコード: [<i class="fab fa-github"></i> GitHub](https://github.com/nikken7101/susuwatari)  
+メディア掲載: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html)、[週間アスキー No. 1073](https://www.amazon.co.jp/dp/B01DSPE7DO) 他
+
+<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/Px5RpnOdf6U" frameborder="0" allowfullscreen></iframe>
 
 
 ## 研究興味分野
@@ -79,6 +100,7 @@
 
 ### 国際会議
 
+1. Y. Oto, K. Ijima, <u>K. Terada</u>, and M. Onizuka, "Yosegi: Columnar format for efficient nested data processing by schema conversion," The 1st Workshop on Distributed Infrastructure, Systems, Programming and AI (DISPA 2020), Online, Aug. 2020.
 1. K. Kanamaru, "An Ising model representation of rectangle packing problem," 2018 Adiabatic Quantum Computing Conference (AQC 2018), Moffett Field, CA, USA, Jun. 2018. (poster, collaboration work with <u>K. Terada</u>, D. Oku, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa)
 1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "A fully-connected Ising model embedding method and its evaluation for CMOS annealing machines," Design Automation Conference 2018 (DAC 2018), Work-in-Progress Poster Session, San Francisco, CA, USA, Jun. 2018. (poster)
 1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "An Ising model mapping to solve rectangle packing problem," in *Proc. of 2018 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)*, Hsinchu, Taiwan, Apr. 2018.
@@ -117,45 +139,26 @@
 1. 2016年4月 &ndash; 2018年3月, 日本学術振興会 特別研究員奨励費
 
 
-## その他
+## 学位
 
-### オープンソースプロジェクト等への貢献
-
-* Apache NiFi (<i class="fab fa-github"></i> GitHub: [apache/nifi](https://github.com/apache/nifi))
-* Apache NiFi Registry (<i class="fab fa-github"></i> GitHub: [apache/nifi-registry](https://github.com/apache/nifi-registry))
-* Apache ORC (<i class="fab fa-github"></i> GitHub: [apache/orc](https://github.com/apache/orc))
-* PyQUBO (<i class="fab fa-github"></i> GitHub: [recruit-communications/pyqubo](https://github.com/recruit-communications/pyqubo))
-* World Cube Association website (<i class="fab fa-github"></i> GitHub: [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org))
-* World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations](https://github.com/thewca/wca-regulations))
-* World Cube Association Regulations translation (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations))
-
-and others.
+**博士 (工学)**, 早稲田大学, 2018年3月.  
+**修士 (工学)**, 早稲田大学, 2015年3月.  
+**学士 (工学)**, 早稲田大学, 2014年3月.  
 
 
-### 技術ブログ記事
+## 学歴
 
-* [ヤフー社内のデータ連携を爆速で構築する方法　#ApacheNiFi - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20191224797450/)
-* [量子アニーリングがチョットワカルようになる記事 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/advent-calendar-2018/quantum-annealing/)
-* [ヤフーCTO藤門、Advent Calendar 「Best Author」に肉ランチで表彰！ - linotice＊ | Yahoo! JAPAN RECRUITMENT](https://linotice.tumblr.com/post/183765673679/20190328?fbclid=IwAR3AqJYbHgZCXRDX8nLXXjk0FbMcgV6oD87IERM6Ik4lBFKOXgBl7mfK8OA)
+2015年4月 &ndash; 2018年3月  
+早稲田大学 大学院基幹理工学研究科 情報理工・情報通信専攻 博士後期課程 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/professor.html))
 
+2014年4月 &ndash; 2015年3月  
+早稲田大学 大学院基幹理工学研究科 情報理工・情報通信専攻 修士課程 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/professor.html))
 
-### ハッカソン
+2010年4月 &ndash; 2014年3月  
+早稲田大学 基幹理工学部 情報理工学科 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/professor.html))
 
-#### [Hack Day 2017](http://hackday.jp/2017/)
-
-作品名: ファンさん  
-チーム: けんけんぱ  
-表彰: 優秀賞  
-
-#### [Hack Day 2016](http://hackday.jp/2016/)
-
-作品名: コネクトガール (Connect Girls)  
-チーム: すすわたり  
-表彰: Short list  
-ソースコード: [<i class="fab fa-github"></i> GitHub](https://github.com/nikken7101/susuwatari)  
-メディア掲載: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html)、[週間アスキー No. 1073](https://www.amazon.co.jp/dp/B01DSPE7DO) 他
-
-<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/Px5RpnOdf6U" frameborder="0" allowfullscreen></iframe>
+2007年4月 &ndash; 2010年3月  
+早稲田大学本庄高等学院 普通科
 
 
 ### スピードキュービング &mdash; WCA

@@ -41,26 +41,47 @@ Aug. 2019 &ndash; Jan. 2020
 <i class="fab fa-github"></i> GitHub: [@kotarot](https://github.com/kotarot)  
 
 
-## Degrees
+## Technical Activities
 
-**Doctor of Engineering**, Waseda University, Mar. 2018.  
-**Master of Engineering**, Waseda University, Mar. 2015.  
-**Bachelor of Engineering**, Waseda University, Mar. 2014.  
+### Contributions to Open Source Projects
 
+* Apache NiFi (<i class="fab fa-github"></i> GitHub: [apache/nifi](https://github.com/apache/nifi))
+* Apache NiFi Registry (<i class="fab fa-github"></i> GitHub: [apache/nifi-registry](https://github.com/apache/nifi-registry))
+* Apache ORC (<i class="fab fa-github"></i> GitHub: [apache/orc](https://github.com/apache/orc))
+* PyQUBO (<i class="fab fa-github"></i> GitHub: [recruit-communications/pyqubo](https://github.com/recruit-communications/pyqubo))
+* World Cube Association website (<i class="fab fa-github"></i> GitHub: [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org))
+* World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations](https://github.com/thewca/wca-regulations))
+* World Cube Association Regulations translation (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations))
 
-## Education
+and others.
 
-Apr. 2015 &ndash; Mar. 2018  
-Doctor of Engineering, Department of Computer Science and Communications Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/professor.html))
+### Presentations
 
-Apr. 2014 &ndash; Mar. 2015  
-Master of Engineering, Department of Computer Science and Communications Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/professor.html))
+* "[Apache NiFi 1.10.0 でなにができるようになったのか？](https://www.slideshare.net/techblogyahoo/apache-nifi-1100-hadoopreading)" [The 27th Hadoop Source Code Reading](https://www.eventbrite.com/e/hadoop-27-tickets-80421772687), Dec. 4th, 2019.
 
-Apr. 2010 &ndash; Mar. 2014  
-Bachelor of Engineering, Department of Computer Science and Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/professor.html))
+### Tech blog articles
 
-Apr. 2007 &ndash; Mar. 2010  
-Waseda University Honjo Senior High School.
+* [ヤフー社内のデータ連携を爆速で構築する方法　#ApacheNiFi - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20191224797450/), Dec. 24th, 2019.
+* [量子アニーリングがチョットワカルようになる記事 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/advent-calendar-2018/quantum-annealing/), Dec. 15th, 2018.
+* [ヤフーCTO藤門、Advent Calendar 「Best Author」に肉ランチで表彰！ - linotice](https://about.yahoo.co.jp/hr/linotice/20190328.html), Mar. 28th, 2019.
+
+### Hackathon
+
+#### [Hack Day 2017](http://hackday.jp/2017/)
+
+Project title: ファンさん  
+Team: けんけんぱ  
+Prize: Good award (優秀賞)  
+
+#### [Hack Day 2016](http://hackday.jp/2016/)
+
+Project title: コネクトガール (Connect Girls)  
+Team: すすわたり  
+Prize: Short list  
+Source code: [<i class="fab fa-github"></i> GitHub](https://github.com/nikken7101/susuwatari)  
+Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html), [週間アスキー No. 1073](https://www.amazon.co.jp/dp/B01DSPE7DO), and more.
+
+<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/Px5RpnOdf6U" frameborder="0" allowfullscreen></iframe>
 
 
 ## Research Interests
@@ -79,6 +100,7 @@ Big data processing, stream processing, quantum annealing, quantum computing, co
 
 ### International Conferences
 
+1. Y. Oto, K. Ijima, <u>K. Terada</u>, and M. Onizuka, "Yosegi: Columnar format for efficient nested data processing by schema conversion," The 1st Workshop on Distributed Infrastructure, Systems, Programming and AI (DISPA 2020), Online, Aug. 2020.
 1. K. Kanamaru, "An Ising model representation of rectangle packing problem," 2018 Adiabatic Quantum Computing Conference (AQC 2018), Moffett Field, CA, USA, Jun. 2018. (poster, collaboration work with <u>K. Terada</u>, D. Oku, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa)
 1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "A fully-connected Ising model embedding method and its evaluation for CMOS annealing machines," Design Automation Conference 2018 (DAC 2018), Work-in-Progress Poster Session, San Francisco, CA, USA, Jun. 2018. (poster)
 1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "An Ising model mapping to solve rectangle packing problem," in *Proc. of 2018 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)*, Hsinchu, Taiwan, Apr. 2018.
@@ -117,45 +139,26 @@ Big data processing, stream processing, quantum annealing, quantum computing, co
 1. Apr. 2016 &ndash; Mar. 2018, JSPS KAKENHI Grant-in-Aid for JSPS Fellows
 
 
-## Other work
+## Degrees
 
-### Contributions to Open Source Projects
-
-* Apache NiFi (<i class="fab fa-github"></i> GitHub: [apache/nifi](https://github.com/apache/nifi))
-* Apache NiFi Registry (<i class="fab fa-github"></i> GitHub: [apache/nifi-registry](https://github.com/apache/nifi-registry))
-* Apache ORC (<i class="fab fa-github"></i> GitHub: [apache/orc](https://github.com/apache/orc))
-* PyQUBO (<i class="fab fa-github"></i> GitHub: [recruit-communications/pyqubo](https://github.com/recruit-communications/pyqubo))
-* World Cube Association website (<i class="fab fa-github"></i> GitHub: [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org))
-* World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations](https://github.com/thewca/wca-regulations))
-* World Cube Association Regulations translation (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations))
-
-and others.
+**Doctor of Engineering**, Waseda University, Mar. 2018.  
+**Master of Engineering**, Waseda University, Mar. 2015.  
+**Bachelor of Engineering**, Waseda University, Mar. 2014.  
 
 
-### Tech blog articles
+## Education
 
-* [ヤフー社内のデータ連携を爆速で構築する方法　#ApacheNiFi - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20191224797450/)
-* [量子アニーリングがチョットワカルようになる記事 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/advent-calendar-2018/quantum-annealing/)
-* [ヤフーCTO藤門、Advent Calendar 「Best Author」に肉ランチで表彰！ - linotice＊ | Yahoo! JAPAN RECRUITMENT](https://linotice.tumblr.com/post/183765673679/20190328?fbclid=IwAR3AqJYbHgZCXRDX8nLXXjk0FbMcgV6oD87IERM6Ik4lBFKOXgBl7mfK8OA)
+Apr. 2015 &ndash; Mar. 2018  
+Doctor of Engineering, Department of Computer Science and Communications Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/professor.html))
 
+Apr. 2014 &ndash; Mar. 2015  
+Master of Engineering, Department of Computer Science and Communications Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/professor.html))
 
-### Hackathon
+Apr. 2010 &ndash; Mar. 2014  
+Bachelor of Engineering, Department of Computer Science and Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/professor.html))
 
-#### [Hack Day 2017](http://hackday.jp/2017/)
-
-Project title: ファンさん  
-Team: けんけんぱ  
-Prize: Good award (優秀賞)  
-
-#### [Hack Day 2016](http://hackday.jp/2016/)
-
-Project title: コネクトガール (Connect Girls)  
-Team: すすわたり  
-Prize: Short list  
-Source code: [<i class="fab fa-github"></i> GitHub](https://github.com/nikken7101/susuwatari)  
-Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html), [週間アスキー No. 1073](https://www.amazon.co.jp/dp/B01DSPE7DO), and more.
-
-<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/Px5RpnOdf6U" frameborder="0" allowfullscreen></iframe>
+Apr. 2007 &ndash; Mar. 2010  
+Waseda University Honjo Senior High School.
 
 
 ### Speed cubing &mdash; WCA
