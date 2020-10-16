@@ -18,6 +18,11 @@ handlers:
   upload: html/photo/(.*)
   secure: always
 
+- url: /avatar.jpg
+  static_files: html/avatar.jpg
+  upload: html/avatar.jpg
+  secure: always
+
 - url: /style/(.*)
   static_files: html/style/\1
   upload: html/style/(.*)
