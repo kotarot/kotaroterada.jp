@@ -55,13 +55,15 @@
 
 and others.
 
+### 発表
+
+* 「[Apache NiFi 1.10.0 でなにができるようになったのか？](https://www.slideshare.net/techblogyahoo/apache-nifi-1100-hadoopreading)」[Hadoopソースコードリーディング 第27回](https://www.eventbrite.com/e/hadoop-27-tickets-80421772687), Dec. 4th, 2019.
 
 ### 技術ブログ記事
 
-* [ヤフー社内のデータ連携を爆速で構築する方法　#ApacheNiFi - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20191224797450/)
-* [量子アニーリングがチョットワカルようになる記事 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/advent-calendar-2018/quantum-annealing/)
-* [ヤフーCTO藤門、Advent Calendar 「Best Author」に肉ランチで表彰！ - linotice＊ | Yahoo! JAPAN RECRUITMENT](https://linotice.tumblr.com/post/183765673679/20190328?fbclid=IwAR3AqJYbHgZCXRDX8nLXXjk0FbMcgV6oD87IERM6Ik4lBFKOXgBl7mfK8OA)
-
+* [ヤフー社内のデータ連携を爆速で構築する方法　#ApacheNiFi - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20191224797450/), Dec. 24th, 2019.
+* [量子アニーリングがチョットワカルようになる記事 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/advent-calendar-2018/quantum-annealing/), Dec. 15th, 2018.
+* [ヤフーCTO藤門、Advent Calendar 「Best Author」に肉ランチで表彰！ - linotice](https://about.yahoo.co.jp/hr/linotice/20190328.html), Mar. 28th, 2019.
 
 ### ハッカソン
 
