@@ -1,6 +1,6 @@
 # CV Generator
 
-CV (curriculum vitae) generation and its deployment to GCP (Google App Engine).
+CV (curriculum vitae) and biography website generation and its deployment to GCP (Google App Engine).
 
 
 ## Requirements
@@ -24,7 +24,8 @@ For manual deployment,
 ```
 ./build.sh
 cd app
-gcloud app deploy --project <Your Project ID>
+CLOUDSDK_PYTHON=python3 gcloud auth login
+CLOUDSDK_PYTHON=python3 gcloud app deploy --project <Your Project ID>
 ```
 
 For automated deployment, see [GitHub Actions](https://github.com/kotarot/cv-generator/actions).
