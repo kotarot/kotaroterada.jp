@@ -8,10 +8,15 @@ handlers:
   upload: html/index.html
   secure: always
 
-- url: /cv(.*)
-  static_files: html/cv\1.html
-  upload: html/cv(.*).html
+- url: /bio(.*)
+  static_files: html/bio\1.html
+  upload: html/bio(.*).html
   secure: always
+
+- url: /cv
+  script: html/cv.php
+- url: /cv.ja
+  script: html/cv.ja.php
 
 - url: /photo/(.*)
   static_files: html/photo/\1

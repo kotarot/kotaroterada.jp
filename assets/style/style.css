@@ -59,16 +59,27 @@ img {
     }
 }
 
-.header-cv {
+.header-bio {
     margin-top: 1em;
 }
 @media all and (min-width: 48em) {
-    .header-cv {
+    .header-bio {
         margin-top: 5em;
     }
 }
+.header-bio-top {
+    margin-top: 1em;
+}
 .header-name {
     font-size: 1.8em;
+    font-weight: bold;
+}
+.header-description {
+    margin-top: 2em;
+}
+.header-description a.btn {
+    width: 100%;
+    text-align: center;
     font-weight: bold;
 }
 

@@ -4,8 +4,8 @@ rm -rf app/html
 mkdir app/html
 
 # Markdown -> HTML
-./convert.py markdown/cv.md -o app/html/cv.html --lang en --locale en_US --canonical cv
-./convert.py markdown/cv.ja.md -o app/html/cv.ja.html --lang ja --locale ja_JP --canonical cv.ja
+./convert.py markdown/bio.md -o app/html/bio.html --lang en --locale en_US --canonical bio
+./convert.py markdown/bio.ja.md -o app/html/bio.ja.html --lang ja --locale ja_JP --canonical bio.ja
 
 # Assets to app
 cp -r assets/* app/html/

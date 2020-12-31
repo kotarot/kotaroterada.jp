@@ -11,7 +11,7 @@ import yaml
 def main():
 
     # Command line args
-    parser = argparse.ArgumentParser(description='CV Generator')
+    parser = argparse.ArgumentParser(description='Bio Generator')
     parser.add_argument('input', nargs=None, default=None, type=str,
                         help='Input Markdown file')
     parser.add_argument('--output', '-o', default=None, type=str,
@@ -27,7 +27,7 @@ def main():
     args = parser.parse_args()
 
     # Config file
-    with open('./cv.yaml') as f:
+    with open('./bio.yaml') as f:
         conf = yaml.safe_load(f)
 
     # markdown -> html
@@ -65,8 +65,8 @@ def main():
     html_photo = '<div class="container"><div class="gw"><div class="g md-one-half">' \
                + '<div class="photo-wrap"><img src="photo/' + conf['page']['photo'] + '" width="280" height="280"></div>' \
                + '</div><div class="g md-one-half padding-left-zero">' \
-               + '<div class="header-cv">Biography of</div>' \
-               + '<div class="header-name">' + conf['cv']['name'] + '</div>' \
+               + '<div class="header-bio">Biography of</div>' \
+               + '<div class="header-name">' + conf['bio']['name'] + '</div>' \
                + '</div></div></div>'
     html_sec = html_sec.replace('{{photo}}', html_photo)
 
@@ -93,7 +93,7 @@ def main():
     html_toc = '<header class="site-header" role="banner">' \
              + '<div class="container">' \
              + '<a class="branding" href="./">' \
-             + '<h1 class="branding__wordmark">' + conf['cv']['name'] + '</h1>' \
+             + '<h1 class="branding__wordmark">' + conf['bio']['name'] + '</h1>' \
              + '</a>' \
              + '<nav class="site-nav">' \
              + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
@@ -105,7 +105,7 @@ def main():
              + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
              + '</nav>' \
              + '<small class="site-credits">' + conf['page']['copyright'] \
-             + '<br>Made with <i class="fas fa-heart site-credits-heart"></i> by <a href="https://github.com/kotarot/cv-generator">CV Generator</a></small>' \
+             + '<br>Made with <i class="fas fa-heart site-credits-heart"></i> by <a href="https://github.com/kotarot/bio-generator">Bio Generator</a></small>' \
              + '</div></footer>'
 
     # Content with TOC
@@ -116,7 +116,7 @@ def main():
 
     # Jinja template
     env = Environment(loader=FileSystemLoader('./', encoding='utf-8'))
-    tpl = env.get_template('cv.tpl')
+    tpl = env.get_template('bio.tpl')
 
     page = {
         'lang':        args.lang,
