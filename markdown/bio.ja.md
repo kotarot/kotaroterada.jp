@@ -1,49 +1,49 @@
-<i class="em em-jp"></i>
-[Switch to Japanese version](/cv.ja)
+<i class="em em-globe_with_meridians" aria-role="presentation" aria-label="GLOBE WITH MERIDIANS"></i>
+[Switch to English version](/bio)
 
 {{photo}}
 
-## Work Experience
+## 所属・経歴
 
-Apr. 2018 &ndash; **present**  
-Software Engineer, Yahoo Japan Corporation
+2018年4月 &ndash; **現在**  
+ヤフー株式会社 ソフトウェアエンジニア
 
-Apr. 2019 &ndash; **present**  
-Researcher / Lecturer, Waseda University
+2019年4月 &ndash; **現在**  
+早稲田大学 客員次席研究員 (研究院客員講師) / 非常勤講師
 
-Jun. 2020 &ndash; **present**  
-Our proposed project was adopted by IPA Mitou Target.  
-[Project details](https://www.ipa.go.jp/jinzai/target/2020/gaiyou_tk-3.html)
+2020年6月 &ndash; **現在**  
+未踏ターゲット事業 プロジェクト採択 (代表者)  
+[未踏ターゲット事業：2020年度採択プロジェクト概要（寺田・古山・臼井・小野PJ）：IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/jinzai/target/2020/gaiyou_tk-3.html)
 
-May 2018 &ndash; **present**  
-Chief Technical Advisor, [Tribox Inc.](https://tribox.com/)
+2018年5月 &ndash; **現在**  
+[株式会社トライボックス](https://tribox.com/) チーフテクニカルアドバイザー
 
-Apr. 2016 &ndash; Mar. 2018  
-[JSPS](https://www.jsps.go.jp/english/index.html) Research Fellow
+2016年4月 &ndash; 2018年3月  
+[日本学術振興会](https://www.jsps.go.jp/) 特別研究員 (DC)
 
-Oct. 2014 &ndash; Mar. 2015  
-Technical Advisor, [Tribox Inc.](https://tribox.com/)  
-My work was developing [tribox.com](https://tribox.com/), [store.tribox.com](https://store.tribox.com/), triboxstickers.com (closed), and [contest.tribox.com](https://contest.tribox.com/)
-
-
-## Additional Experience
-
-Oct. 2019 &ndash; **present**  
-[Apache NiFi](https://nifi.apache.org/) Committer
-
-Aug. 2019 &ndash; Jan. 2020  
-[WCA](https://worldcubeassociation.org/) Regulations Committee (WRC) Member
+2014年10月 &ndash; 2016年3月  
+[株式会社トライボックス](https://tribox.com/) テクニカルアドバイザー  
+[tribox.com](https://tribox.com/), [store.tribox.com](https://store.tribox.com/), triboxstickers.com (closed), [contest.tribox.com](https://contest.tribox.com/) の開発・保守
 
 
-## Contact Info
+## 活動
+
+2019年10月 &ndash; **現在**  
+[Apache NiFi](https://nifi.apache.org/) コミッター
+
+2019年8月 &ndash; 2020年1月  
+[WCA](https://worldcubeassociation.org/) 規則委員会 (WRC) メンバー
+
+
+## 連絡先
 
 <i class="fas fa-envelope"></i> Email: kotarot [at] apache.org  
 <i class="fab fa-github"></i> GitHub: [@kotarot](https://github.com/kotarot)  
 
 
-## Technical Activities
+## 技術活動
 
-### Contributions to Open Source Projects
+### オープンソースプロジェクト等への貢献
 
 * Apache NiFi (<i class="fab fa-github"></i> GitHub: [apache/nifi](https://github.com/apache/nifi))
 * Apache NiFi Registry (<i class="fab fa-github"></i> GitHub: [apache/nifi-registry](https://github.com/apache/nifi-registry))
@@ -55,50 +55,50 @@ Aug. 2019 &ndash; Jan. 2020
 
 and others.
 
-### Presentations
+### 発表
 
-* "[Apache NiFi 1.10.0 でなにができるようになったのか？](https://www.slideshare.net/techblogyahoo/apache-nifi-1100-hadoopreading)" [The 27th Hadoop Source Code Reading](https://www.eventbrite.com/e/hadoop-27-tickets-80421772687), Dec. 4th, 2019.
+* 「[Apache NiFi 1.10.0 でなにができるようになったのか？](https://www.slideshare.net/techblogyahoo/apache-nifi-1100-hadoopreading)」[Hadoopソースコードリーディング 第27回](https://www.eventbrite.com/e/hadoop-27-tickets-80421772687), Dec. 4th, 2019.
 
-### Tech blog articles
+### 技術ブログ記事
 
 * [ヤフー社内のデータ連携を爆速で構築する方法　#ApacheNiFi - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20191224797450/), Dec. 24th, 2019.
 * [量子アニーリングがチョットワカルようになる記事 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/advent-calendar-2018/quantum-annealing/), Dec. 15th, 2018.
 * [ヤフーCTO藤門、Advent Calendar 「Best Author」に肉ランチで表彰！ - linotice](https://about.yahoo.co.jp/hr/linotice/20190328.html), Mar. 28th, 2019.
 
-### Hackathon
+### ハッカソン
 
 #### [Hack Day 2017](http://hackday.jp/2017/)
 
-Project title: ファンさん  
-Team: けんけんぱ  
-Prize: Good award (優秀賞)  
+作品名: ファンさん  
+チーム: けんけんぱ  
+表彰: 優秀賞  
 
 #### [Hack Day 2016](http://hackday.jp/2016/)
 
-Project title: コネクトガール (Connect Girls)  
-Team: すすわたり  
-Prize: Short list  
-Source code: [<i class="fab fa-github"></i> GitHub](https://github.com/nikken7101/susuwatari)  
-Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html), [週間アスキー No. 1073](https://www.amazon.co.jp/dp/B01DSPE7DO), and more.
+作品名: コネクトガール (Connect Girls)  
+チーム: すすわたり  
+表彰: Short list  
+ソースコード: [<i class="fab fa-github"></i> GitHub](https://github.com/nikken7101/susuwatari)  
+メディア掲載: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html)、[週間アスキー No. 1073](https://www.amazon.co.jp/dp/B01DSPE7DO) 他
 
 <iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/Px5RpnOdf6U" frameborder="0" allowfullscreen></iframe>
 
 
-## Research Interests
+## 研究興味分野
 
-Big data processing, stream processing, quantum annealing, quantum computing, combinatorial optimization, VLSI design, electronic design automation (EDA), and high-level synthesis
+ビッグデータ処理, ストリーム処理, 量子アニーリング, 量子コンピューティング, 組合せ最適化, VLSI設計, EDA, 高位合成
 
 
-## Publications
+## 発表業績
 
-### Journals
+### 学術雑誌
 
 1. D. Oku, <u>K. Terada</u>, M. Hayashi, M. Yamaoka, S. Tanaka, and N. Togawa, "A fully-connected Ising model embedding method and its evaluation for CMOS annealing machines," *IEICE Trans. on Information and Systems*, vol. E102-D, no. 9, pp. 1696&ndash;1706, Sep. 2019.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A bitwidth-aware high-level synthesis algorithm using operation chainings for Tiled-DR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E100-A, no. 12, pp. 2911&ndash;2924, Dec. 2017.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A high-level synthesis algorithm with inter-island distance based operation chainings for RDR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E98-A, no. 7, pp. 1366&ndash;1375, Jul. 2015.
 
 
-### International Conferences
+### 国際会議
 
 1. Y. Oto, K. Ijima, <u>K. Terada</u>, and M. Onizuka, "Yosegi: Columnar format for efficient nested data processing by schema conversion," The 1st Workshop on Distributed Infrastructure, Systems, Programming and AI (DISPA 2020), Online, Aug. 2020.
 1. K. Kanamaru, "An Ising model representation of rectangle packing problem," 2018 Adiabatic Quantum Computing Conference (AQC 2018), Moffett Field, CA, USA, Jun. 2018. (poster, collaboration work with <u>K. Terada</u>, D. Oku, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa)
@@ -108,7 +108,7 @@ Big data processing, stream processing, quantum annealing, quantum computing, co
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with operation chainings using chaining enumeration," in *Proc. of 2014 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, pp. 248&ndash;251, Ishigaki, Japan, Nov. 2014.
 
 
-### Domestic Conferences
+### 国内学会・研究会
 
 1. <u>寺田晃太朗</u>, 田中宗, 林真人, 山岡雅直, 柳澤政生, 戸川望, "20KスピンCMOSアニーリングマシンを対象とした完全結合イジングモデルマッピング手法," 日本物理学会2017年秋季大会, 盛岡市, Sep. 2017.
 1. <u>寺田晃太朗</u>, 田中宗, 林真人, 山岡雅直, 柳澤政生, 戸川望, "20KスピンCMOSアニーリングマシンを対象とした完全結合イジングモデルマッピング手法と評価," 情報処理学会DAシンポジウム2017論文集, pp. 163&ndash;168, 加賀市, Sep. 2017.
@@ -122,48 +122,48 @@ Big data processing, stream processing, quantum annealing, quantum computing, co
 1. <u>寺田晃太朗</u>, 柳澤政生, 戸川望, "演算チェイニング候補列挙に基づく配線遅延を考慮した高位合成手法," 第27回回路とシステムワークショップ論文集, pp. 440&ndash;445, 淡路市, Aug. 2014.
 
 
-## Awards
+## 表彰
 
-1. Mar. 2018, [早稲田大学 アーリーバード成果報告会『100sec. TALKS』～若手研究者が創る未来の科学～ ベストプレゼンテーション賞](https://www.waseda.jp/fsci/wise/news/2018/03/08/1616/)
-1. Aug. 2017, 情報処理学会 DAシンポジウム2017 アルゴリズムデザインコンテスト 最優秀賞
-1. Sep. 2016, 情報処理学会 DAシンポジウム2016 アルゴリズムデザインコンテスト 最優秀賞
-1. Sep. 2016, 情報処理学会 DAシンポジウム2016 アルゴリズムデザインコンテスト 特別賞
-1. May 2016, 情報処理学会 第176回システムとLSIの設計技術研究発表会 優秀発表学生賞
-1. Aug. 2015, 情報処理学会 DAシンポジウム2015 アルゴリズムデザインコンテスト 優秀賞 (学生部門)
-1. Mar. 2015, 早稲田大学 基幹理工学研究科 情報理工・情報通信専攻 専攻賞
-
-
-## Grants
-
-1. Jun. 2017 &ndash; Mar. 2018, Waseda Research Institute for Science and Engineering, Grant-in-Aid for Young Scientists (Early Bird)
-1. Apr. 2016 &ndash; Mar. 2018, JSPS KAKENHI Grant-in-Aid for JSPS Fellows
+1. 2018年3月, [早稲田大学 アーリーバード成果報告会『100sec. TALKS』～若手研究者が創る未来の科学～ ベストプレゼンテーション賞](https://www.waseda.jp/fsci/wise/news/2018/03/08/1616/)
+1. 2017年8月, 情報処理学会 DAシンポジウム2017 アルゴリズムデザインコンテスト 最優秀賞
+1. 2016年9月, 情報処理学会 DAシンポジウム2016 アルゴリズムデザインコンテスト 最優秀賞
+1. 2016年9月, 情報処理学会 DAシンポジウム2016 アルゴリズムデザインコンテスト 特別賞
+1. 2016年5月, 情報処理学会 第176回システムとLSIの設計技術研究発表会 優秀発表学生賞
+1. 2015年8月, 情報処理学会 DAシンポジウム2015 アルゴリズムデザインコンテスト 優秀賞 (学生部門)
+1. 2015年3月, 早稲田大学 基幹理工学研究科 情報理工・情報通信専攻 専攻賞
 
 
-## Degrees
+## 研究費・助成金
 
-**Doctor of Engineering**, Waseda University, Mar. 2018.  
-**Master of Engineering**, Waseda University, Mar. 2015.  
-**Bachelor of Engineering**, Waseda University, Mar. 2014.  
-
-
-## Education
-
-Apr. 2015 &ndash; Mar. 2018  
-Doctor of Engineering, Department of Computer Science and Communications Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/professor.html))
-
-Apr. 2014 &ndash; Mar. 2015  
-Master of Engineering, Department of Computer Science and Communications Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/professor.html))
-
-Apr. 2010 &ndash; Mar. 2014  
-Bachelor of Engineering, Department of Computer Science and Engineering, Waseda University, Japan. (Supervisor: [Prof. Nozomu Togawa](http://www.togawa.cs.waseda.ac.jp/English/professor.html))
-
-Apr. 2007 &ndash; Mar. 2010  
-Waseda University Honjo Senior High School.
+1. 2017年6月 &ndash; 2018年3月, 早稲田大学 理工学術院総合研究所, 若手研究者支援事業 アーリーバード
+1. 2016年4月 &ndash; 2018年3月, 日本学術振興会 特別研究員奨励費
 
 
-### Speed cubing &mdash; WCA
+## 学位
 
-[My WCA results](https://www.worldcubeassociation.org/persons/2010TERA01)
+**博士 (工学)**, 早稲田大学, 2018年3月.  
+**修士 (工学)**, 早稲田大学, 2015年3月.  
+**学士 (工学)**, 早稲田大学, 2014年3月.  
+
+
+## 学歴
+
+2015年4月 &ndash; 2018年3月  
+早稲田大学 大学院基幹理工学研究科 情報理工・情報通信専攻 博士後期課程 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/professor.html))
+
+2014年4月 &ndash; 2015年3月  
+早稲田大学 大学院基幹理工学研究科 情報理工・情報通信専攻 修士課程 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/professor.html))
+
+2010年4月 &ndash; 2014年3月  
+早稲田大学 基幹理工学部 情報理工学科 (指導教員: [戸川望 教授](http://www.togawa.cs.waseda.ac.jp/professor.html))
+
+2007年4月 &ndash; 2010年3月  
+早稲田大学本庄高等学院 普通科
+
+
+### スピードキュービング &mdash; WCA
+
+[WCA 公式記録](https://www.worldcubeassociation.org/persons/2010TERA01)
 
 
 #### 3&times;3&times;3 Blindfolded
@@ -200,6 +200,6 @@ Waseda University Honjo Senior High School.
 * **3rd place** in Inter-University Cube Relay as *Waseda University* at [Circles Open Spring 2017](https://www.worldcubeassociation.org/competitions/CirclesOpenSpring2017)
 
 
-### Speed cubing &mdash; Red Bull
+### スピードキュービング &mdash; Red Bull
 
 * **2nd place** in Re-scramble at [Red Bull Rubik's Cube World Championship 2018 Japan Qualifier](https://mindgamers.redbull.com/rubiks/event/22)
