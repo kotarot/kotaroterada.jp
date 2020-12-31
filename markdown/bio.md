@@ -48,6 +48,7 @@ Aug. 2019 &ndash; Jan. 2020
 * Apache NiFi (<i class="fab fa-github"></i> GitHub: [apache/nifi](https://github.com/apache/nifi))
 * Apache NiFi Registry (<i class="fab fa-github"></i> GitHub: [apache/nifi-registry](https://github.com/apache/nifi-registry))
 * Apache ORC (<i class="fab fa-github"></i> GitHub: [apache/orc](https://github.com/apache/orc))
+* Sawatabi (<i class="fab fa-github"></i> GitHub: [kotarot/sawatabi](https://github.com/kotarot/sawatabi))
 * PyQUBO (<i class="fab fa-github"></i> GitHub: [recruit-communications/pyqubo](https://github.com/recruit-communications/pyqubo))
 * World Cube Association website (<i class="fab fa-github"></i> GitHub: [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org))
 * World Cube Association Regulations (<i class="fab fa-github"></i> GitHub: [thewca/wca-regulations](https://github.com/thewca/wca-regulations))
