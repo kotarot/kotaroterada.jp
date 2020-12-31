@@ -1,5 +1,5 @@
 <i class="em em-jp" aria-role="presentation" aria-label="Japan Flag"></i>
-[Switch to Japanese version](/bio.ja)
+[Switch to Japanese](/bio.ja)
 
 {{photo}}
 

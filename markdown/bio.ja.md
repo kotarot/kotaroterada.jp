@@ -1,5 +1,5 @@
 <i class="em em-globe_with_meridians" aria-role="presentation" aria-label="GLOBE WITH MERIDIANS"></i>
-[Switch to English version](/bio)
+[Switch to English](/bio)
 
 {{photo}}
 

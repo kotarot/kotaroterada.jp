@@ -67,9 +67,15 @@ img {
         margin-top: 5em;
     }
 }
+.header-bio-top {
+    margin-top: 1em;
+}
 .header-name {
     font-size: 1.8em;
     font-weight: bold;
+}
+.header-description {
+    margin-top: 2em;
 }
 .header-description a.btn {
     width: 100%;
