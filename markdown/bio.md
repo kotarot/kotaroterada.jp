@@ -23,7 +23,7 @@ Apr. 2016 &ndash; Mar. 2018
 
 Oct. 2014 &ndash; Mar. 2015  
 Technical Advisor, [Tribox Inc.](https://tribox.com/)  
-My work was developing [tribox.com](https://tribox.com/), [store.tribox.com](https://store.tribox.com/), triboxstickers.com (closed), and [contest.tribox.com](https://contest.tribox.com/)
+My work was developing [tribox.com](https://tribox.com/), [TORIBO Store](https://store.tribox.com/), triboxstickers.com (closed), and [TORIBO Contest](https://contest.tribox.com/)
 
 
 ## Additional Experience
@@ -58,6 +58,7 @@ and others.
 
 ### Presentations
 
+* "[アニーリング計算をストリーム処理で実行するフレームワーク「Sawatabi」とデモアプリケーションの開発 ](https://www.slideshare.net/kotarot/sawatabi)" [2020年度未踏ターゲット事業成果報告会](https://mitoutg.connpass.com/event/201599/), Feb. 11th, 2021.
 * "[Apache NiFi 1.10.0 でなにができるようになったのか？](https://www.slideshare.net/techblogyahoo/apache-nifi-1100-hadoopreading)" [The 27th Hadoop Source Code Reading](https://www.eventbrite.com/e/hadoop-27-tickets-80421772687), Dec. 4th, 2019.
 
 ### Tech blog articles
@@ -111,6 +112,7 @@ Big data processing, stream processing, quantum annealing, quantum computing, co
 
 ### Domestic Conferences
 
+1. 古山慎悟, <u>寺田晃太朗</u>, "ストリームデータに量子アニーリングを適用するアプリケーションフレームワークとその有用性," 情報処理学会 第83回全国大会講演論文集, オンライン, Mar. 2021.
 1. <u>寺田晃太朗</u>, 田中宗, 林真人, 山岡雅直, 柳澤政生, 戸川望, "20KスピンCMOSアニーリングマシンを対象とした完全結合イジングモデルマッピング手法," 日本物理学会2017年秋季大会, 盛岡市, Sep. 2017.
 1. <u>寺田晃太朗</u>, 田中宗, 林真人, 山岡雅直, 柳澤政生, 戸川望, "20KスピンCMOSアニーリングマシンを対象とした完全結合イジングモデルマッピング手法と評価," 情報処理学会DAシンポジウム2017論文集, pp. 163&ndash;168, 加賀市, Sep. 2017.
 1. 長谷川健人, 石川遼太, <u>寺田晃太朗</u>, 川村一志, 多和田雅師, 戸川望, "組込みデバイスとFPGAを用いたナンバーリンクソルバの設計と実装," 情報処理学会DAシンポジウム2017ポスター発表, 加賀市, Aug. 2017. (ポスター発表)
