@@ -59,15 +59,19 @@ def main():
         html_sec += line
 
     # Pre-processing: Add <main> & photo
-    html_sec = '<main class="site-main" role="main">' \
-             + html_sec \
-             + '</main>'
-    html_photo = '<div class="container"><div class="gw"><div class="g md-one-half">' \
-               + '<div class="photo-wrap"><img src="static/photo/' + conf['page']['photo'] + '" width="280" height="280"></div>' \
-               + '</div><div class="g md-one-half padding-left-zero">' \
-               + '<div class="header-bio">Biography of</div>' \
-               + '<div class="header-name">' + conf['bio']['name'] + '</div>' \
-               + '</div></div></div>'
+    html_sec = ''.join([
+        '<main class="site-main" role="main">',
+        html_sec,
+        '</main>',
+    ])
+    html_photo = ''.join([
+        '<div class="container"><div class="gw"><div class="g md-one-half">',
+        '<div class="photo-wrap"><img src="static/photo/' + conf['page']['photo'] + '" width="280" height="280"></div>',
+        '</div><div class="g md-one-half padding-left-zero">',
+        '<div class="header-bio">Biography of</div>',
+        '<div class="header-name">' + conf['bio']['name'] + '</div>',
+        '</div></div></div>',
+    ])
     html_sec = html_sec.replace('{{photo}}', html_photo)
 
     # Into BeautifulSoup
@@ -90,23 +94,25 @@ def main():
     # Add TOC at the top and bottom
     # TODO: These codes should be rewirted with template
     html_toc = str(soup_sec)
-    html_toc = '<header class="site-header" role="banner">' \
-             + '<div class="container">' \
-             + '<a class="branding" href="./">' \
-             + '<h1 class="branding__wordmark">' + conf['bio']['name'] + '</h1>' \
-             + '</a>' \
-             + '<nav class="site-nav">' \
-             + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
-             + '</nav></div></header>' \
-             + html_toc \
-             + '<footer class="site-footer">' \
-             + '<div class="container">' \
-             + '<nav class="site-nav">' \
-             + ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]) \
-             + '</nav>' \
-             + '<small class="site-credits">' + conf['page']['copyright'] \
-             + '<br>Made with <i class="fas fa-heart site-credits-heart"></i> by <a href="https://github.com/kotarot/bio-generator">Bio Generator</a></small>' \
-             + '</div></footer>'
+    html_toc = ''.join([
+        '<header class="site-header" role="banner">',
+        '<div class="container">',
+        '<a class="branding" href="./">',
+        '<h1 class="branding__wordmark">' + conf['bio']['name'] + '</h1>',
+        '</a>',
+        '<nav class="site-nav">',
+        ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]),
+        '</nav></div></header>',
+        html_toc,
+        '<footer class="site-footer">',
+        '<div class="container">',
+        '<nav class="site-nav">',
+        ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]),
+        '</nav>',
+        '<small class="site-credits">' + conf['page']['copyright'],
+        '<br>Made with <i class="fas fa-heart site-credits-heart"></i> by <a href="https://github.com/kotarot/bio-generator">Bio Generator</a></small>',
+        '</div></footer>',
+    ])
 
     # Content with TOC
     if args.prettify:
@@ -125,14 +131,14 @@ def main():
         'description': conf['page']['description'],
         'keywords':    conf['page']['keywords'],
         'copyright':   conf['page']['copyright'],
-        'bgphoto':     'static/photo/' + conf['page']['bgphoto']
+        'bgphoto':     'static/photo/' + conf['page']['bgphoto'],
     }
     ogp = {
         'locale':   args.locale,
         'title':    conf['ogp']['title'],
         'url':      conf['page']['rooturl'] + args.canonical,
         'sitename': conf['ogp']['sitename'],
-        'image':    conf['page']['rooturl'] + 'static/photo/' + conf['page']['photo']
+        'image':    conf['page']['rooturl'] + 'static/photo/' + conf['page']['photo'],
     }
 
     # Output html
