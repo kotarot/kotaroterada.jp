@@ -22,4 +22,4 @@ jobs:
         pip install -r requirements-test.txt
     - name: Run unit tests
       run: |
-        pytest --verbose
+        cd app && pytest --verbose
