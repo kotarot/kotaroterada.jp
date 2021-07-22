@@ -41,3 +41,18 @@ def test_cv(client):
 def test_cv_ja(client):
     r = client.get('/cv.ja')
     assert r.status_code == 302
+
+
+def test_robots_txt(client):
+    r = client.get('/robots.txt')
+    assert r.status_code == 200
+
+
+def test_humans_txt(client):
+    r = client.get('/humans.txt')
+    assert r.status_code == 200
+
+
+def test_invalid_path(client):
+    r = client.get('/invalid')
+    assert r.status_code == 404
