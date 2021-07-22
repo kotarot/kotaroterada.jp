@@ -1,3 +1,7 @@
+################
+# macOS
+################
+
 # General
 .DS_Store
 .AppleDouble
@@ -24,6 +28,11 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+################
+# Python
+################
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -156,7 +165,11 @@ dmypy.json
 .pyre/
 
 
-################################
+################
+# This project
+################
 
 # Generated resources
-app/html
+app/static
+app/templates
+app/requirements.txt
