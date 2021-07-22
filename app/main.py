@@ -34,6 +34,15 @@ def cv():
 def cv_ja():
     return redirect('/bio.ja', code=302)
 
+# robots.txt
+@app.route('/robots.txt')
+def robots_txt():
+    return app.send_static_file('robots.txt')
+
+@app.route('/humans.txt')
+def humans_txt():
+    return app.send_static_file('humans.txt')
+
 # Additional Redirects:
 # Old psychsheet
 @app.route('/psychsheet/ac-2018')
