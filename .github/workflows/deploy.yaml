@@ -29,7 +29,7 @@ jobs:
     - name: Setup gcloud
       uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
       with:
-        version: '290.0.1'
+        version: '349.0.0'
         project_id: ${{ secrets.GCP_PROJECT_ID }}
         service_account_email: ${{ secrets.GCP_SA_EMAIL }}
         service_account_key: ${{ secrets.GCP_SA_KEY }}
@@ -40,11 +40,11 @@ jobs:
       run: |
         gcloud config set project ${{ secrets.GCP_PROJECT_ID }}
 
-    - name: Check gcloud
+    - name: Check gcloud info
       run: |
         gcloud info
 
     # Deploy
-    - name: Deploy pages
+    - name: Deploy the app
       run: |
         cd app && gcloud app deploy && gcloud app deploy dispatch.yaml

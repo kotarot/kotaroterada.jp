@@ -5,8 +5,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="skyline/css/screen.css" />
-  <link rel="stylesheet" href="style/style.css" />
+  <link rel="stylesheet" href="static/skyline/css/screen.css" />
+  <link rel="stylesheet" href="static/style/style.css" />
   <link rel="stylesheet" href="https://afeld.github.io/emoji-css/emoji.css" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous" />
   <link rel="canonical" href="{{ page.canonical }}" />
