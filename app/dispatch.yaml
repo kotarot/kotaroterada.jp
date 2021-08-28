@@ -1,3 +1,7 @@
 dispatch:
+  # Main app
   - url: "kotaroterada.jp/*"
     service: default
+  # Redirect app
+  - url: "www.kotaroterada.jp/*"
+    service: redirect
