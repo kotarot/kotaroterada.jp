@@ -1,2 +1,15 @@
 runtime: python39
 entrypoint: gunicorn -b :$PORT main:app
+
+# Auto scaling
+instance_class: F1
+
+# Default service name
+service: default
+
+handlers:
+# Redirect all http requests to https
+- url: /.*
+  secure: always
+  redirect_http_response_code: 301
+  script: auto
