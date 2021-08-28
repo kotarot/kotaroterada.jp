@@ -45,6 +45,9 @@ jobs:
         gcloud info
 
     # Deploy
-    - name: Deploy the app
+    - name: Deploy the redirect app
       run: |
-        cd app && gcloud app deploy && gcloud app deploy dispatch.yaml
+        cd app-redirect && gcloud app deploy && cd ..
+    - name: Deploy the main app
+      run: |
+        cd app && gcloud app deploy && gcloud app deploy dispatch.yaml && cd ..
