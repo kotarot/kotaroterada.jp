@@ -9,6 +9,8 @@ jobs:
   ping:
     runs-on: ubuntu-latest
 
+    steps:
+
     # https://kotaroterada.jp/
     - name: Check content of https://kotaroterada.jp/
       run: |
