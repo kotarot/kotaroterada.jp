@@ -1,9 +1,10 @@
 name: Ping the website
 
-on:
-  schedule:
-    # 00:30 (UTC)
-    - cron: '30 0 * * *'
+on: [push]
+# on:
+#   schedule:
+#     # 00:30 (UTC)
+#     - cron: '30 0 * * *'
 
 jobs:
   ping:
@@ -13,7 +14,7 @@ jobs:
 
     # https://kotaroterada.jp/
     - name: Check content of https://kotaroterada.jp/
-      run: curl -sS https://kotaroterada.jp/ | grep 'Kotaro Terada'
+      run: curl -sS https://kotaroterada.jp/ | grep '<!DOCTYPE html>'
     - name: Check status of https://kotaroterada.jp/
       run: curl -I https://kotaroterada.jp/ | grep 'HTTP/2 200'
 
