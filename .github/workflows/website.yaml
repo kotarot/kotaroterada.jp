@@ -35,3 +35,27 @@ jobs:
       run: curl -I http://www.kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently'
     - name: Check redirect of http://www.kotaroterada.jp/
       run: curl -I http://www.kotaroterada.jp/ | grep 'https://www.kotaroterada.jp/'
+
+    # https://teradakotaro.jp/
+    - name: Check status of https://teradakotaro.jp/
+      run: curl -I https://teradakotaro.jp/ | grep 'HTTP/2 301'
+    - name: Check redirect of https://teradakotaro.jp/
+      run: curl -I https://teradakotaro.jp/ | grep 'https://kotaroterada.jp/'
+
+    # http://teradakotaro.jp/
+    - name: Check status of http://teradakotaro.jp/
+      run: curl -I http://teradakotaro.jp/ | grep 'HTTP/1.1 301 Moved Permanently'
+    - name: Check redirect of http://teradakotaro.jp/
+      run: curl -I http://teradakotaro.jp/ | grep 'https://kotaroterada.jp/'
+
+    # https://www.teradakotaro.jp/
+    - name: Check status of https://www.teradakotaro.jp/
+      run: curl -I https://www.teradakotaro.jp/ | grep 'HTTP/2 301'
+    - name: Check redirect of https://www.teradakotaro.jp/
+      run: curl -I https://www.teradakotaro.jp/ | grep 'https://teradakotaro.jp/'
+
+    # http://www.teradakotaro.jp/
+    - name: Check status of http://www.teradakotaro.jp/
+      run: curl -I http://www.teradakotaro.jp/ | grep 'HTTP/1.1 301 Moved Permanently'
+    - name: Check redirect of http://www.teradakotaro.jp/
+      run: curl -I http://www.teradakotaro.jp/ | grep 'https://www.teradakotaro.jp/'
