@@ -52,7 +52,7 @@ jobs:
     - name: Check status of https://www.teradakotaro.jp/
       run: curl -I https://www.teradakotaro.jp/ | grep 'HTTP/2 301'
     - name: Check redirect of https://www.teradakotaro.jp/
-      run: curl -I https://www.teradakotaro.jp/ | grep 'https://teradakotaro.jp/'
+      run: curl -I https://www.teradakotaro.jp/ | grep 'https://kotaroterada.jp/'
 
     # http://www.teradakotaro.jp/
     - name: Check status of http://www.teradakotaro.jp/
