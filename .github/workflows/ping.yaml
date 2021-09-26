@@ -1,10 +1,9 @@
 name: Ping the website
 
-on: [push]
-# on:
-#   schedule:
-#     # 00:30 (UTC)
-#     - cron: '30 0 * * *'
+on:
+  schedule:
+    # 00:30 (UTC)
+    - cron: '30 0 * * *'
 
 jobs:
   ping:
