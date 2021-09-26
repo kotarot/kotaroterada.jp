@@ -34,4 +34,4 @@ jobs:
     - name: Check status of http://www.kotaroterada.jp/
       run: curl -I http://www.kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently'
     - name: Check redirect of http://www.kotaroterada.jp/
-      run: curl -I http://www.kotaroterada.jp/ | grep 'https://kotaroterada.jp/'
+      run: curl -I http://www.kotaroterada.jp/ | grep 'https://www.kotaroterada.jp/'
