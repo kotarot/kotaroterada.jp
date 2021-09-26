@@ -5,3 +5,7 @@ dispatch:
   # Redirect app
   - url: "www.kotaroterada.jp/*"
     service: redirect
+  - url: "teradakotaro.jp/*"
+    service: redirect
+  - url: "www.teradakotaro.jp/*"
+    service: redirect
