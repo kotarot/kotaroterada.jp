@@ -11,7 +11,7 @@ app = Flask(__name__)
 # Routings: Redirects to kotaroterada.jp
 @app.before_request
 def before_request():
-    redirect_from = 'www.kotaroterada.jp'
+    redirect_from = request.host
     redirect_to = 'kotaroterada.jp'
     redirect_url = request.url.replace(redirect_from, redirect_to)
     return redirect(redirect_url, code=301)
