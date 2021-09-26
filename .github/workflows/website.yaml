@@ -19,12 +19,24 @@ jobs:
 
     # http://kotaroterada.jp/
     - name: Check status of http://kotaroterada.jp/
-      run: curl -I http://kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently' && curl -I http://kotaroterada.jp/ | grep 'Location: https://kotaroterada.jp/'
+      run: |
+      curl -I http://kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently'
+    - name: Check redirect of http://kotaroterada.jp/
+      run: |
+      curl -I http://kotaroterada.jp/ | grep 'Location: https://kotaroterada.jp/'
 
     # https://www.kotaroterada.jp/
     - name: Check status of https://www.kotaroterada.jp/
-      run: curl -I https://www.kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently' && curl -I https://www.kotaroterada.jp/ | grep 'Location: https://kotaroterada.jp/'
+      run: |
+      curl -I https://www.kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently'
+    - name: Check redirect of https://www.kotaroterada.jp/
+      run: |
+      curl -I https://www.kotaroterada.jp/ | grep 'Location: https://kotaroterada.jp/'
 
     # http://www.kotaroterada.jp/
     - name: Check status of http://www.kotaroterada.jp/
-      run: curl -I http://www.kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently' && curl -I http://www.kotaroterada.jp/ | grep 'Location: https://www.kotaroterada.jp/'
+      run: |
+      curl -I http://www.kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently'
+    - name: Check redirect of http://www.kotaroterada.jp/
+      run: |
+      curl -I http://www.kotaroterada.jp/ | grep 'Location: https://www.kotaroterada.jp/'
