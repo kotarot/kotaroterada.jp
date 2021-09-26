@@ -1,4 +1,4 @@
-# Bio Generator
+# kotaroterada.jp (formerly Bio/CV Generator)
 
 Biography and CV (curriculum vitae) website generation and its deployment to GCP (Google App Engine).
 
@@ -43,8 +43,9 @@ gcloud app deploy
 gcloud app deploy dispatch.yaml
 ```
 
-For automated deployment, see [GitHub Actions](https://github.com/kotarot/bio-generator/actions).
+For automated deployment, see [GitHub Actions](https://github.com/kotarot/kotaroterada.jp/actions).
 
 
 ## Demo
+
 [https://kotaroterada.jp/bio](https://kotaroterada.jp/bio)

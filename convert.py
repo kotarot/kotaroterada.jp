@@ -11,7 +11,7 @@ import yaml
 def main():
 
     # Command line args
-    parser = argparse.ArgumentParser(description='Bio Generator')
+    parser = argparse.ArgumentParser(description='Bio/CV Generator')
     parser.add_argument('input', nargs=None, default=None, type=str,
                         help='Input Markdown file')
     parser.add_argument('--output', '-o', default=None, type=str,
@@ -110,7 +110,7 @@ def main():
         ''.join(['<a href="#' + s[0] + '">' + s[1] + '</a>' for s in sections]),
         '</nav>',
         '<small class="site-credits">' + conf['page']['copyright'],
-        '<br>Made with <i class="fas fa-heart site-credits-heart"></i> by <a href="https://github.com/kotarot/bio-generator">Bio Generator</a></small>',
+        '<br>Made with <i class="fas fa-heart site-credits-heart"></i> by <a href="https://github.com/kotarot/kotaroterada.jp"><i class="fab fa-github"></i> kotaroterada.jp</a></small>',
         '</div></footer>',
     ])
 
