@@ -26,7 +26,7 @@ jobs:
 
     # https://www.kotaroterada.jp/
     - name: Check status of https://www.kotaroterada.jp/
-      run: curl -I https://www.kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently'
+      run: curl -I https://www.kotaroterada.jp/ | grep 'HTTP/2 301'
     - name: Check redirect of https://www.kotaroterada.jp/
       run: curl -I https://www.kotaroterada.jp/ | grep 'https://kotaroterada.jp/'
 
