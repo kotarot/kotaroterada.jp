@@ -46,7 +46,7 @@ jobs:
     - name: Check status of http://teradakotaro.jp/
       run: curl -I http://teradakotaro.jp/ | grep 'HTTP/1.1 301 Moved Permanently'
     - name: Check redirect of http://teradakotaro.jp/
-      run: curl -I http://teradakotaro.jp/ | grep 'https://kotaroterada.jp/'
+      run: curl -I http://teradakotaro.jp/ | grep 'https://teradakotaro.jp/'
 
     # https://www.teradakotaro.jp/
     - name: Check status of https://www.teradakotaro.jp/
