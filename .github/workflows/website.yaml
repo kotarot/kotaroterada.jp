@@ -9,28 +9,22 @@ jobs:
   ping:
     runs-on: ubuntu-latest
 
+    steps:
+
     # https://kotaroterada.jp/
     - name: Check content of https://kotaroterada.jp/
-      run: |
-        curl -sS https://kotaroterada.jp/ | grep 'Kotaro Terada'
+      run: curl -sS https://kotaroterada.jp/ | grep 'Kotaro Terada'
     - name: Check status of https://kotaroterada.jp/
-      run: |
-        curl -I https://kotaroterada.jp/ | grep 'HTTP/2 200'
+      run: curl -I https://kotaroterada.jp/ | grep 'HTTP/2 200'
 
     # http://kotaroterada.jp/
     - name: Check status of http://kotaroterada.jp/
-      run: |
-        curl -I http://kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently'
-        curl -I http://kotaroterada.jp/ | grep 'Location: https://kotaroterada.jp/'
+      run: curl -I http://kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently' && curl -I http://kotaroterada.jp/ | grep 'Location: https://kotaroterada.jp/'
 
     # https://www.kotaroterada.jp/
     - name: Check status of https://www.kotaroterada.jp/
-      run: |
-        curl -I https://www.kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently'
-        curl -I https://www.kotaroterada.jp/ | grep 'Location: https://kotaroterada.jp/'
+      run: curl -I https://www.kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently' && curl -I https://www.kotaroterada.jp/ | grep 'Location: https://kotaroterada.jp/'
 
     # http://www.kotaroterada.jp/
     - name: Check status of http://www.kotaroterada.jp/
-      run: |
-        curl -I http://www.kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently'
-        curl -I http://www.kotaroterada.jp/ | grep 'Location: https://www.kotaroterada.jp/'
+      run: curl -I http://www.kotaroterada.jp/ | grep 'HTTP/1.1 301 Moved Permanently' && curl -I http://www.kotaroterada.jp/ | grep 'Location: https://www.kotaroterada.jp/'
