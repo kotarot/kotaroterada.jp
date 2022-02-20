@@ -3,7 +3,7 @@ name: Ping the website
 on:
   schedule:
     # 00:30 (UTC)
-    - cron: '30 0 * * *'
+    - cron: '30 * * * *'
 
 jobs:
   ping:
