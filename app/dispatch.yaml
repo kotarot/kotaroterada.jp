@@ -1,11 +1,11 @@
 dispatch:
-  # Main app
+  # The main domain: Main app
   - url: "kotaroterada.jp/*"
     service: default
-  # Redirect app
+  # Other domains
   - url: "www.kotaroterada.jp/*"
-    service: redirect
+    service: default
   - url: "teradakotaro.jp/*"
-    service: redirect
+    service: default
   - url: "www.teradakotaro.jp/*"
-    service: redirect
+    service: default

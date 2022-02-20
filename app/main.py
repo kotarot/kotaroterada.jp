@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from flask import Flask, redirect, render_template
+from flask import Flask, redirect, render_template, request
 
+from urllib.parse import urlparse, urlunparse
 
 # The Flask application
 app = Flask(
@@ -11,6 +12,16 @@ app = Flask(
     static_url_path='/static',
     static_folder='static',
 )
+
+
+# Before request
+# Redirect to the main domain.
+@app.before_request
+def redirect_domain():
+    parsed = urlparse(request.url)
+    if parsed.netloc in ['www.kotaroterada.jp', 'teradakotaro.jp', 'www.teradakotaro.jp']:
+        replaced = parsed._replace(netloc='kotaroterada.jp')
+        return redirect(urlunparse(replaced), code=301)
 
 
 # Routings

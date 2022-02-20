@@ -38,9 +38,8 @@ For manual deployment,
 ```bash
 ./build.sh
 cd app
-gcloud auth login
-gcloud app deploy
-gcloud app deploy dispatch.yaml
+gcloud app deploy app.yaml --quiet --no-cache
+gcloud app deploy dispatch.yaml --quiet
 ```
 
 For automated deployment, see [GitHub Actions](https://github.com/kotarot/kotaroterada.jp/actions).
