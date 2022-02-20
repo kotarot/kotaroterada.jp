@@ -12,4 +12,3 @@ mkdir app/templates
 # Move assets to the app
 cp -r assets/* app/
 cp requirements.txt app/
-cp requirements.txt app-redirect/
