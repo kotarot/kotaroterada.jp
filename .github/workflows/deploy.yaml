@@ -11,8 +11,11 @@ jobs:
     strategy:
       matrix:
         python-version: [3.9]
+    permissions:
+      contents: 'read'
+      id-token: 'write'
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v1
       with:
@@ -26,14 +29,15 @@ jobs:
         ./build.sh
 
     # Setup gcloud CLI
+    - name: Authenticate to Google Cloud
+      uses: google-github-actions/auth@v1
+      with:
+        workload_identity_provider: 'projects/400058512962/locations/global/workloadIdentityPools/github-actions-pool/providers/github-actions-provider'
+        service_account: 'gae-deploy@labo-kotaro.iam.gserviceaccount.com'
     - name: Setup gcloud
-      uses: google-github-actions/setup-gcloud@main
+      uses: google-github-actions/setup-gcloud@v1
       with:
         version: '417.0.1'
-        project_id: ${{ secrets.GCP_PROJECT_ID }}
-        service_account_email: ${{ secrets.GCP_SA_EMAIL }}
-        service_account_key: ${{ secrets.GCP_SA_KEY }}
-        export_default_credentials: true
 
     # Configure gcloud CLI
     - name: Configure gcloud
