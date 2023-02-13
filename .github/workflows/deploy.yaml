@@ -32,8 +32,8 @@ jobs:
     - name: Authenticate to Google Cloud
       uses: google-github-actions/auth@v1
       with:
-        workload_identity_provider: 'projects/400058512962/locations/global/workloadIdentityPools/github-actions-pool/providers/github-actions-provider'
-        service_account: 'gae-deploy@labo-kotaro.iam.gserviceaccount.com'
+        workload_identity_provider: ${{ vars.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+        service_account: ${{ vars.GCP_SERVICE_ACCOUNT }}
     - name: Setup gcloud
       uses: google-github-actions/setup-gcloud@v1
       with:
@@ -42,7 +42,7 @@ jobs:
     # Configure gcloud CLI
     - name: Configure gcloud
       run: |
-        gcloud config set project ${{ secrets.GCP_PROJECT_ID }}
+        gcloud config set project ${{ vars.GCP_PROJECT_ID }}
 
     - name: Check gcloud info
       run: |
