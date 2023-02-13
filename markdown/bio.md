@@ -5,18 +5,18 @@
 
 ## Work Experience
 
-Apr. 2018 &ndash; **present**  
-Software Engineer, Yahoo Japan Corporation
-
 Apr. 2019 &ndash; **present**  
 Researcher / Lecturer, Waseda University
 
-Jun. 2020 &ndash; **present**  
-Our proposed project was adopted by IPA Mitou Target.  
-[Project details](https://www.ipa.go.jp/jinzai/target/2020/gaiyou_tk-3.html)
-
 May 2018 &ndash; **present**  
 Chief Technical Advisor, [Tribox Inc.](https://tribox.com/)
+
+Apr. 2018 &ndash; Jan. 2023  
+Software Engineer, Yahoo Japan Corporation
+
+Jun. 2020 &ndash; Feb. 2021  
+Our proposed project was adopted by IPA Mitou Target.  
+[Project details](https://www.ipa.go.jp/jinzai/target/2020/gaiyou_tk-3.html)
 
 Apr. 2016 &ndash; Mar. 2018  
 [JSPS](https://www.jsps.go.jp/english/index.html) Research Fellow
