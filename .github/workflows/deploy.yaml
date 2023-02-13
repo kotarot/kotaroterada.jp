@@ -27,7 +27,7 @@ jobs:
 
     # Setup gcloud CLI
     - name: Setup gcloud
-      uses: google-github-actions/setup-gcloud@master
+      uses: google-github-actions/setup-gcloud@main
       with:
         version: '417.0.1'
         project_id: ${{ secrets.GCP_PROJECT_ID }}
