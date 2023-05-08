@@ -5,14 +5,18 @@
 
 ## 所属・経歴
 
+### 現在
+
 2019年4月 &ndash; **現在**  
-早稲田大学 客員次席研究員 (研究院客員講師) / 非常勤講師
+[早稲田大学](https://www.waseda.jp/top/) 客員次席研究員 (研究院客員講師) / 非常勤講師
 
 2018年5月 &ndash; **現在**  
 [株式会社トライボックス](https://tribox.com/) チーフテクニカルアドバイザー
 
+### 過去
+
 2018年4月 &ndash; 2023年1月  
-ヤフー株式会社 ソフトウェアエンジニア
+[ヤフー株式会社](https://about.yahoo.co.jp/info/company/) ソフトウェアエンジニア
 
 2020年6月 &ndash; 2021年2月  
 未踏ターゲット事業 プロジェクト採択 (代表者)  
@@ -88,7 +92,7 @@ and others.
 
 ## 研究興味分野
 
-ビッグデータ処理, ストリーム処理, 量子アニーリング, 量子コンピューティング, 組合せ最適化, VLSI設計, EDA, 高位合成
+量子アニーリング, 量子コンピューティング, 組合せ最適化, VLSI設計, EDA, 高位合成, ビッグデータ処理, ストリーム処理
 
 
 ## 発表業績
@@ -99,7 +103,6 @@ and others.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A bitwidth-aware high-level synthesis algorithm using operation chainings for Tiled-DR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E100-A, no. 12, pp. 2911&ndash;2924, Dec. 2017.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A high-level synthesis algorithm with inter-island distance based operation chainings for RDR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E98-A, no. 7, pp. 1366&ndash;1375, Jul. 2015.
 
-
 ### 国際会議
 
 1. Y. Oto, K. Ijima, <u>K. Terada</u>, and M. Onizuka, "Yosegi: Columnar format for efficient nested data processing by schema conversion," The 1st Workshop on Distributed Infrastructure, Systems, Programming and AI (DISPA 2020), Online, Aug. 2020.
@@ -108,7 +111,6 @@ and others.
 1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "An Ising model mapping to solve rectangle packing problem," in *Proc. of 2018 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)*, Hsinchu, Taiwan, Apr. 2018.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with multiple-operation chainings based on path enumeration," in *Proc. of 2015 IEEE International Symposium on Circuits and Systems (ISCAS)*, pp. 2129&ndash;2132, Lisbon, Portugal, May 2015.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with operation chainings using chaining enumeration," in *Proc. of 2014 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, pp. 248&ndash;251, Ishigaki, Japan, Nov. 2014.
-
 
 ### 国内学会・研究会
 
@@ -164,10 +166,16 @@ and others.
 早稲田大学本庄高等学院 普通科
 
 
+## その他の活動
+
+### GeoGuessr
+
+* GeoGuessr プレイヤー: [Kotaro](https://www.geoguessr.com/user/5ce009ee19e12f8c30378634)
+* YouTube: [@KotaroGG](https://www.youtube.com/@KotaroGG)
+
 ### スピードキュービング &mdash; WCA
 
 [WCA 公式記録](https://www.worldcubeassociation.org/persons/2010TERA01)
-
 
 #### 3&times;3&times;3 Blindfolded
 
@@ -175,7 +183,6 @@ and others.
 * **2nd place** in 3&times;3&times;3 Blindfolded at [East Japan Big Cubes 2012](https://www.worldcubeassociation.org/competitions/EastJapanBigCubes2012)
 * **2nd place** in 3&times;3&times;3 Blindfolded at [Kansai Open 2012](https://www.worldcubeassociation.org/competitions/KansaiOpen2012)
 * **3rd place** in 3&times;3&times;3 Blindfolded at [Matsudo Spring 2011](https://www.worldcubeassociation.org/competitions/MatsudoSpring2011)
-
 
 #### 3&times;3&times;3 Fewest Moves
 
@@ -185,23 +192,19 @@ and others.
 * **3rd place** in 3&times;3&times;3 Fewest Moves at [Tachikawa FMC 2017](https://www.worldcubeassociation.org/competitions/TachikawaFMC2017)
 * **2nd place** in 3&times;3&times;3 Fewest Moves at [Kanto Winter 2012](https://www.worldcubeassociation.org/competitions/KantoWinter2012)
 
-
 #### Clock
 
 * **3rd place** in Clock at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)
-
 
 #### Pyraminx
 
 * **1st place** in Pyraminx at [Tohoku 2018](https://www.worldcubeassociation.org/competitions/Tohoku2018)
 * **3rd place** in Pyraminx at [Kyushu Open 2016](https://www.worldcubeassociation.org/competitions/KyushuOpen2016)
 
-
 #### Other events
 
 * **3rd place** in Inter-University Cube Relay as *Waseda University* at [TMU Open 2018](https://www.worldcubeassociation.org/competitions/TMUOpen2018)
 * **3rd place** in Inter-University Cube Relay as *Waseda University* at [Circles Open Spring 2017](https://www.worldcubeassociation.org/competitions/CirclesOpenSpring2017)
-
 
 ### スピードキュービング &mdash; Red Bull
 

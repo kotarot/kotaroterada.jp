@@ -5,14 +5,18 @@
 
 ## Work Experience
 
+### Present
+
 Apr. 2019 &ndash; **present**  
-Researcher / Lecturer, Waseda University
+Visiting Researcher / Visiting Lecturer, [Waseda University](https://www.waseda.jp/top/en/)
 
 May 2018 &ndash; **present**  
 Chief Technical Advisor, [Tribox Inc.](https://tribox.com/)
 
+### Past
+
 Apr. 2018 &ndash; Jan. 2023  
-Software Engineer, Yahoo Japan Corporation
+Software Engineer, [Yahoo Japan Corporation](https://about.yahoo.co.jp/en/info/company/)
 
 Jun. 2020 &ndash; Feb. 2021  
 Our proposed project was adopted by IPA Mitou Target.  
@@ -88,7 +92,7 @@ Media: [ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1603/16/news088.html
 
 ## Research Interests
 
-Big data processing, stream processing, quantum annealing, quantum computing, combinatorial optimization, VLSI design, electronic design automation (EDA), and high-level synthesis
+Quantum annealing, quantum computing, combinatorial optimization, VLSI design, electronic design automation (EDA), high-level synthesis, big data processing, and stream processing
 
 
 ## Publications
@@ -99,7 +103,6 @@ Big data processing, stream processing, quantum annealing, quantum computing, co
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A bitwidth-aware high-level synthesis algorithm using operation chainings for Tiled-DR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E100-A, no. 12, pp. 2911&ndash;2924, Dec. 2017.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A high-level synthesis algorithm with inter-island distance based operation chainings for RDR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E98-A, no. 7, pp. 1366&ndash;1375, Jul. 2015.
 
-
 ### International Conferences
 
 1. Y. Oto, K. Ijima, <u>K. Terada</u>, and M. Onizuka, "Yosegi: Columnar format for efficient nested data processing by schema conversion," The 1st Workshop on Distributed Infrastructure, Systems, Programming and AI (DISPA 2020), Online, Aug. 2020.
@@ -108,7 +111,6 @@ Big data processing, stream processing, quantum annealing, quantum computing, co
 1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "An Ising model mapping to solve rectangle packing problem," in *Proc. of 2018 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)*, Hsinchu, Taiwan, Apr. 2018.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with multiple-operation chainings based on path enumeration," in *Proc. of 2015 IEEE International Symposium on Circuits and Systems (ISCAS)*, pp. 2129&ndash;2132, Lisbon, Portugal, May 2015.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A floorplan-driven high-level synthesis algorithm with operation chainings using chaining enumeration," in *Proc. of 2014 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, pp. 248&ndash;251, Ishigaki, Japan, Nov. 2014.
-
 
 ### Domestic Conferences
 
@@ -164,10 +166,16 @@ Apr. 2007 &ndash; Mar. 2010
 Waseda University Honjo Senior High School.
 
 
+## Other Skills
+
+### GeoGuessr
+
+* GeoGuessr Player: [Kotaro](https://www.geoguessr.com/user/5ce009ee19e12f8c30378634)
+* YouTube: [@KotaroGG](https://www.youtube.com/@KotaroGG)
+
 ### Speed cubing &mdash; WCA
 
 [My WCA results](https://www.worldcubeassociation.org/persons/2010TERA01)
-
 
 #### 3&times;3&times;3 Blindfolded
 
@@ -175,7 +183,6 @@ Waseda University Honjo Senior High School.
 * **2nd place** in 3&times;3&times;3 Blindfolded at [East Japan Big Cubes 2012](https://www.worldcubeassociation.org/competitions/EastJapanBigCubes2012)
 * **2nd place** in 3&times;3&times;3 Blindfolded at [Kansai Open 2012](https://www.worldcubeassociation.org/competitions/KansaiOpen2012)
 * **3rd place** in 3&times;3&times;3 Blindfolded at [Matsudo Spring 2011](https://www.worldcubeassociation.org/competitions/MatsudoSpring2011)
-
 
 #### 3&times;3&times;3 Fewest Moves
 
@@ -185,23 +192,19 @@ Waseda University Honjo Senior High School.
 * **3rd place** in 3&times;3&times;3 Fewest Moves at [Tachikawa FMC 2017](https://www.worldcubeassociation.org/competitions/TachikawaFMC2017)
 * **2nd place** in 3&times;3&times;3 Fewest Moves at [Kanto Winter 2012](https://www.worldcubeassociation.org/competitions/KantoWinter2012)
 
-
 #### Clock
 
 * **3rd place** in Clock at [Cherry Blossom Viewing 2016](https://www.worldcubeassociation.org/competitions/CherryBlossomViewing2016)
-
 
 #### Pyraminx
 
 * **1st place** in Pyraminx at [Tohoku 2018](https://www.worldcubeassociation.org/competitions/Tohoku2018)
 * **3rd place** in Pyraminx at [Kyushu Open 2016](https://www.worldcubeassociation.org/competitions/KyushuOpen2016)
 
-
 #### Other events
 
 * **3rd place** in Inter-University Cube Relay as *Waseda University* at [TMU Open 2018](https://www.worldcubeassociation.org/competitions/TMUOpen2018)
 * **3rd place** in Inter-University Cube Relay as *Waseda University* at [Circles Open Spring 2017](https://www.worldcubeassociation.org/competitions/CirclesOpenSpring2017)
-
 
 ### Speed cubing &mdash; Red Bull
 
