@@ -7,6 +7,9 @@
 
 ### Present
 
+Sep. 2023 &ndash; **present**  
+Director of Application Development, [Quanmatic Inc.](https://quanmatic.com/en/)
+
 Apr. 2019 &ndash; **present**  
 Visiting Researcher / Visiting Lecturer, [Waseda University](https://www.waseda.jp/top/en/)
 
