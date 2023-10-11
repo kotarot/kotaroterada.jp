@@ -11,7 +11,7 @@
 [株式会社Quanmatic](https://quanmatic.com/) Director of Application Development
 
 2019年4月 &ndash; **現在**  
-[早稲田大学](https://www.waseda.jp/top/) 客員次席研究員 (研究院客員講師) / 非常勤講師
+[早稲田大学](https://www.waseda.jp/top/) 客員次席研究員 (研究院客員講師)
 
 2018年5月 &ndash; **現在**  
 [株式会社トライボックス](https://tribox.com/) チーフテクニカルアドバイザー
