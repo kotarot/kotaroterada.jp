@@ -102,6 +102,7 @@ and others.
 
 ### 学術雑誌
 
+1. A. Okada, K. Otaki, T. Matsumori, H. Yoshida, <u>K. Terada</u>, and N. Togawa, "QUBO formulation using sequence pair with search space restriction for rectangle packing problem," *IEEE Access (Early Access)*, Oct. 2024.
 1. D. Oku, <u>K. Terada</u>, M. Hayashi, M. Yamaoka, S. Tanaka, and N. Togawa, "A fully-connected Ising model embedding method and its evaluation for CMOS annealing machines," *IEICE Trans. on Information and Systems*, vol. E102-D, no. 9, pp. 1696&ndash;1706, Sep. 2019.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A bitwidth-aware high-level synthesis algorithm using operation chainings for Tiled-DR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E100-A, no. 12, pp. 2911&ndash;2924, Dec. 2017.
 1. <u>K. Terada</u>, M. Yanagisawa, and N. Togawa, "A high-level synthesis algorithm with inter-island distance based operation chainings for RDR architectures," *IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences*, vol. E98-A, no. 7, pp. 1366&ndash;1375, Jul. 2015.
