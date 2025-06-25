@@ -8,7 +8,8 @@
 ### Present
 
 Sep. 2023 &ndash; **present**  
-Director of Application Development, [Quanmatic Inc.](https://quanmatic.com/en/)
+CPO (Chief Product Officer), [Quanmatic Inc.](https://quanmatic.com/en/) (May 2025 &ndash; present)  
+Director of Application Development, [Quanmatic Inc.](https://quanmatic.com/en/) (Sep. 2023 &ndash; May 2025)
 
 Apr. 2019 &ndash; **present**  
 Guest Junior Researcher (Guest Assistant Professor), [Waseda University](https://www.waseda.jp/top/en/)
