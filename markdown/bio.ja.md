@@ -110,6 +110,7 @@ and others.
 
 ### 国際会議
 
+1. T. Hayashi, Y. Seki, <u>K. Terada</u>, Y. Mukasa, S. Kikuchi, and S. Tanaka, "Extended FMA via Space-Filling Quasi-Random Sequences," The 4th International Network on Quantum Annealing Conference (INQA 2025), Barcelona, Spain, Nov. 2025. (poster)
 1. Y. Oto, K. Ijima, <u>K. Terada</u>, and M. Onizuka, "Yosegi: Columnar format for efficient nested data processing by schema conversion," The 1st Workshop on Distributed Infrastructure, Systems, Programming and AI (DISPA 2020), Online, Aug. 2020.
 1. S. Kanamaru, "An Ising model representation of rectangle packing problem," 2018 Adiabatic Quantum Computing Conference (AQC 2018), Moffett Field, CA, USA, Jun. 2018. (poster, collaboration work with <u>K. Terada</u>, D. Oku, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa)
 1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "A fully-connected Ising model embedding method and its evaluation for CMOS annealing machines," 2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC 2018), Work-in-Progress Poster Session, San Francisco, CA, USA, Jun. 2018. (poster)
@@ -119,6 +120,7 @@ and others.
 
 ### 国内学会・研究会
 
+1. 林泰雅, 関優也, <u>寺田晃太朗</u>, 武笠陽介, 菊池脩太, 田中宗, "空間網羅的準ランダム列に基づく拡張FMA," 日本物理学会 第80会年次大会, 広島市, Sep. 2025. (ポスター発表)
 1. 古山慎悟, <u>寺田晃太朗</u>, "ストリームデータに量子アニーリングを適用するアプリケーションフレームワークとその有用性," 情報処理学会 第83回全国大会講演論文集, オンライン, Mar. 2021.
 1. 金丸翔, <u>寺田晃太朗</u>, 川村一志, 田中宗, 富田憲範, 戸川望, "イジング計算機による3次元直方体パッキング問題の解法," 信学技報, VLD2019-124, pp. 173&ndash;178, 那覇市, May 2020.
 1. <u>寺田晃太朗</u>, 田中宗, 林真人, 山岡雅直, 柳澤政生, 戸川望, "20KスピンCMOSアニーリングマシンを対象とした完全結合イジングモデルマッピング手法," 日本物理学会2017年秋季大会, 盛岡市, Sep. 2017.
