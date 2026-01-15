@@ -1,10 +1,10 @@
-runtime: python39
+runtime: python313
 entrypoint: gunicorn -b :$PORT main:app
 
 # Auto scaling
 instance_class: F1
 automatic_scaling:
-  max_instances: 10
+  max_instances: 5
   min_instances: 0
   # max_idle_instances:
   # min_idle_instances:
