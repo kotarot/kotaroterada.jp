@@ -37,7 +37,7 @@ jobs:
     - name: Setup gcloud
       uses: google-github-actions/setup-gcloud@v1
       with:
-        version: '445.0.0'
+        version: '552.0.0'
 
     # Configure gcloud CLI
     - name: Configure gcloud
