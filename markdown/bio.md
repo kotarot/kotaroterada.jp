@@ -31,7 +31,7 @@ Apr. 2016 &ndash; Mar. 2018
 
 Oct. 2014 &ndash; Mar. 2015  
 Technical Advisor, [Tribox Inc.](https://tribox.com/)  
-My work was developing [tribox.com](https://tribox.com/), [TORIBO Store](https://store.tribox.com/), triboxstickers.com (closed), and [TORIBO Contest](https://contest.tribox.com/)
+My work was developing [tribox.com](https://tribox.com/), [tribox Store](https://store.tribox.com/), triboxstickers.com (closed), and [tribox Contest](https://contest.tribox.com/)
 
 
 ## Additional Experience
@@ -101,6 +101,10 @@ Quantum annealing, quantum computing, combinatorial optimization, VLSI design, e
 
 ## Publications
 
+### Preprints
+
+1. T. Hayashi, Y. Seki, <u>K. Terada</u>, Y. Mukasa, S. Kikuchi, and S. Tanaka, "Improving FMQA via initial training data design considering marginal bit coverage in one-hot encoding," [arXiv:2605.04825](https://arxiv.org/abs/2605.04825), May 2026.
+
 ### Journals
 
 1. A. Okada, K. Otaki, T. Matsumori, H. Yoshida, <u>K. Terada</u>, and N. Togawa, "QUBO formulation using sequence pair with search space restriction for rectangle packing problem," *IEEE Access*, vol. 12, pp. 156627&ndash;156638, Oct. 2024.
@@ -120,6 +124,8 @@ Quantum annealing, quantum computing, combinatorial optimization, VLSI design, e
 
 ### Domestic Conferences
 
+1. 林泰雅, 関優也, <u>寺田晃太朗</u>, 武笠陽介, 菊池脩太, 田中宗, "ビット多様性を考慮した初期データ生成に基づくFMQAの性能改善," 日本物理学会2026年春季大会, オンライン, Mar. 2026. (ポスター発表)
+1. 林泰雅, 関優也, <u>寺田晃太朗</u>, 武笠陽介, 菊池脩太, 田中宗, "探索可能ビットを拡大する初期学習データ生成によるFMQAの性能向上," 第203回HPC・第17回QS合同研究発表会, 札幌市, Mar. 2026.
 1. 林泰雅, 関優也, <u>寺田晃太朗</u>, 武笠陽介, 菊池脩太, 田中宗, "空間網羅的準ランダム列に基づく拡張FMA," 日本物理学会 第80会年次大会, 広島市, Sep. 2025. (ポスター発表)
 1. 古山慎悟, <u>寺田晃太朗</u>, "ストリームデータに量子アニーリングを適用するアプリケーションフレームワークとその有用性," 情報処理学会 第83回全国大会講演論文集, オンライン, Mar. 2021.
 1. 金丸翔, <u>寺田晃太朗</u>, 川村一志, 田中宗, 富田憲範, 戸川望, "イジング計算機による3次元直方体パッキング問題の解法," 信学技報, VLD2019-124, pp. 173&ndash;178, 那覇市, May 2020.
