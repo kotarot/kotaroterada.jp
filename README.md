@@ -49,6 +49,8 @@ For automated deployment, see [GitHub Actions](https://github.com/kotarot/kotaro
 
 See [AGENTS.md](AGENTS.md) for repository conventions and workflow guidance for AI coding agents.
 
+Pushes to `claude/**` branches automatically open a PR to `main` authored by `github-actions[bot]` (`.github/workflows/auto-pr.yaml`), so the repository owner can approve and merge PRs prepared by AI agents. This requires *Settings > Actions > General > Allow GitHub Actions to create and approve pull requests*.
+
 
 ## Demo
 
