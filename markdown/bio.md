@@ -47,6 +47,7 @@ Aug. 2019 &ndash; Jan. 2020
 ## Contact Info
 
 <i class="fas fa-envelope"></i> Email: kotarot [at] apache.org  
+<i class="fab fa-linkedin"></i> LinkedIn: [kotaro-terada](https://www.linkedin.com/in/kotaro-terada/)  
 <i class="fab fa-github"></i> GitHub: [@kotarot](https://github.com/kotarot)  
 
 
