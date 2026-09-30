@@ -115,7 +115,9 @@ and others.
 
 ### 国際会議
 
-1. T. Hayashi, Y. Seki, <u>K. Terada</u>, Y. Mukasa, S. Kikuchi, and S. Tanaka, "Extended FMA via Space-Filling Quasi-Random Sequences," The 4th International Network on Quantum Annealing Conference (INQA 2025), Barcelona, Spain, Nov. 2025. (poster)
+1. T. Hayashi, Y. Seki, <u>K. Terada</u>, Y. Mukasa, S. Kikuchi, and S. Tanaka, "Field-aware FMQA: Enhancing quantum-assisted black-box optimization via field-weighted factorization machines," 2nd International Conference on Applied Quantum Methods in Computational Science and Engineering (AQMCSE 2026), Delft, The Netherlands, Sep. 2026.
+1. T. Hayashi, "Improving FMQA performance via bit-diversity-aware Initial data generation," Adiabatic Quantum Computing 2026 (AQC 2026), Tokyo, Japan, Jun. 2026. (poster, collaboration work with Y. Seki, <u>K. Terada</u>, Y. Mukasa, S. Kikuchi, and S. Tanaka)
+1. T. Hayashi, Y. Seki, <u>K. Terada</u>, Y. Mukasa, S. Kikuchi, and S. Tanaka, "Extended FMA via space-filling quasi-random sequences," The 4th International Network on Quantum Annealing Conference (INQA 2025), Barcelona, Spain, Nov. 2025. (poster)
 1. Y. Oto, K. Ijima, <u>K. Terada</u>, and M. Onizuka, "Yosegi: Columnar format for efficient nested data processing by schema conversion," The 1st Workshop on Distributed Infrastructure, Systems, Programming and AI (DISPA 2020), Online, Aug. 2020.
 1. S. Kanamaru, "An Ising model representation of rectangle packing problem," 2018 Adiabatic Quantum Computing Conference (AQC 2018), Moffett Field, CA, USA, Jun. 2018. (poster, collaboration work with <u>K. Terada</u>, D. Oku, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa)
 1. <u>K. Terada</u>, D. Oku, S. Kanamaru, S. Tanaka, M. Hayashi, M. Yamaoka, M. Yanagisawa, and N. Togawa, "A fully-connected Ising model embedding method and its evaluation for CMOS annealing machines," 2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC 2018), Work-in-Progress Poster Session, San Francisco, CA, USA, Jun. 2018. (poster)
@@ -125,6 +127,7 @@ and others.
 
 ### 国内学会・研究会
 
+1. 林泰雅, "準ランダム列に基づく初期学習データ生成を用いたFMQAの性能評価―人力航空機翼形状最適化への適用―," 第3回 Quantum CAE 研究会, 東京都, May 2026. (関優也, <u>寺田晃太朗</u>, 武笠陽介, 菊池脩太, 田中宗との共同研究)
 1. 林泰雅, 関優也, <u>寺田晃太朗</u>, 武笠陽介, 菊池脩太, 田中宗, "ビット多様性を考慮した初期データ生成に基づくFMQAの性能改善," 日本物理学会2026年春季大会, オンライン, Mar. 2026. (ポスター発表)
 1. 林泰雅, 関優也, <u>寺田晃太朗</u>, 武笠陽介, 菊池脩太, 田中宗, "探索可能ビットを拡大する初期学習データ生成によるFMQAの性能向上," 第203回HPC・第17回QS合同研究発表会, 札幌市, Mar. 2026.
 1. 林泰雅, 関優也, <u>寺田晃太朗</u>, 武笠陽介, 菊池脩太, 田中宗, "空間網羅的準ランダム列に基づく拡張FMA," 日本物理学会 第80会年次大会, 広島市, Sep. 2025. (ポスター発表)
