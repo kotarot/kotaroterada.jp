@@ -27,7 +27,7 @@ Personal portfolio / biography site of Kotaro Terada (寺田 晃太朗), served 
 | `app/main.py` | Flask app: routes `/`, `/bio`, `/bio.ja`, `/cv`→`/bio`, `/cv.ja`→`/bio.ja`, domain redirects |
 | `app/main_test.py` | pytest tests for routes (require a prior build) |
 | `app/app.yaml`, `app/dispatch.yaml` | GAE service and domain dispatch config |
-| `.github/workflows/` | `build.yaml` / `ci.yaml` (every push), `deploy.yaml` (push to `main`), `ping.yaml` (daily uptime check) |
+| `.github/workflows/` | `build.yaml` / `ci.yaml` (every push), `deploy.yaml` (push to `main`), `auto-pr.yaml` (opens a PR for pushed `claude/**` branches), `ping.yaml` (daily uptime check) |
 
 `app/static/`, `app/templates/` and `app/requirements.txt` are **build outputs** (git-ignored). Never edit them by hand; edit the sources and rerun `./build.sh`.
 
@@ -88,4 +88,15 @@ CI runs the build and tests on Python 3.10–3.13 (Ubuntu and macOS), so avoid s
 2. `./build.sh` — must print `Converted: ...` for both pages without errors.
 3. `cd app && pytest` — all tests must pass.
 4. Optionally grep the generated HTML in `app/templates/` to confirm the change rendered as intended.
-5. Commit only source files (build outputs are git-ignored). Work on a feature branch and open a PR to `main`; merging deploys to production.
+5. Commit only source files (build outputs are git-ignored). Work on a feature branch and get a PR to `main` opened as described in [Pull requests](#pull-requests); merging deploys to production.
+
+## Pull requests
+
+The owner cannot approve a PR they authored. AI agents act through the owner's GitHub account, so **agents must not open PRs themselves**. Instead:
+
+1. Push the work to a branch named `claude/<something>`.
+2. `.github/workflows/auto-pr.yaml` opens a PR to `main` authored by `github-actions[bot]`. It uses the first commit's subject as the title and its body as the description. If an open PR for the branch already exists, it does nothing.
+3. Once the PR exists, the agent may edit its title and description (e.g. with the GitHub MCP `update_pull_request` tool). The author stays `github-actions[bot]`.
+4. The owner reviews, approves and merges.
+
+Branches not named `claude/**` get no automatic PR. PRs created with `GITHUB_TOKEN` do not trigger `pull_request` workflows, but CI in this repo runs on `push`, so the branch is still built and tested.
