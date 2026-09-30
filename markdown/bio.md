@@ -8,7 +8,8 @@
 ### Present
 
 Sep. 2023 &ndash; **present**  
-CPO (Chief Product Officer), [Quanmatic Inc.](https://quanmatic.com/en/) (May 2025 &ndash; present)  
+CTO (Chief Technology Officer), [Quanmatic Inc.](https://quanmatic.com/en/) (Jul. 2026 &ndash; present)  
+CPO (Chief Product Officer), [Quanmatic Inc.](https://quanmatic.com/en/) (May 2025 &ndash; Jun. 2026)  
 Director of Application Development, [Quanmatic Inc.](https://quanmatic.com/en/) (Sep. 2023 &ndash; May 2025)
 
 Apr. 2019 &ndash; **present**  
