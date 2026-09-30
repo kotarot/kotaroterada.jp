@@ -8,7 +8,8 @@
 ### 現在
 
 2023年9月 &ndash; **現在**  
-[株式会社Quanmatic](https://quanmatic.com/) CPO (最高製品責任者) (2025年5月 &ndash; 現在)  
+[株式会社Quanmatic](https://quanmatic.com/) CTO (最高技術責任者) (2026年7月 &ndash; 現在)  
+[株式会社Quanmatic](https://quanmatic.com/) CPO (最高製品責任者) (2025年5月 &ndash; 2026年6月)  
 [株式会社Quanmatic](https://quanmatic.com/) Director of Application Development (2023年9月 &ndash; 2025年5月)
 
 2019年4月 &ndash; **現在**  
