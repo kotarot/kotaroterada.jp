@@ -12,8 +12,8 @@ Biography and CV (curriculum vitae) website generation and its deployment to GCP
 
 1. Install packages: `pip install -r requirements.txt`.
 2. Edit markdown (e.g. `markdown/bio.md`).
-3. Edit and set parameters in `bio.conf`.
-4. Convert markdown to html: `./build.sh` or individually `./convert.py markdown/bio.md -o app/html/bio.html`.
+3. Edit and set parameters in `bio.yaml`.
+4. Convert markdown to html: `./build.sh` or individually `./convert.py markdown/bio.md -o app/templates/bio.html`.
 
 
 ## Usage -- Run the server on localhost
@@ -43,6 +43,11 @@ gcloud app deploy dispatch.yaml --quiet
 ```
 
 For automated deployment, see [GitHub Actions](https://github.com/kotarot/kotaroterada.jp/actions).
+
+
+## For AI agents
+
+See [AGENTS.md](AGENTS.md) for repository conventions and workflow guidance for AI coding agents.
 
 
 ## Demo
